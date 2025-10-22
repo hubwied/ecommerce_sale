@@ -1,0 +1,1001 @@
+order_id,product_id,product_name,category,price,quantity,order_date,customer_id,customer_location
+1,103,Keyboard,Appliances,88.17,6,2023-01-01 12:05:00,1498,Phoenix
+2,104,Printer,Electronics,331.41,5,2023-01-02 03:17:00,1916,Houston
+3,102,Smartphone,Accessories,712.28,6,2023-01-02 16:53:00,1677,Philadelphia
+4,105,Mouse,Electronics,21.0,2,2023-01-03 09:07:00,1282,Houston
+5,109,Smartphone,Appliances,956.59,1,2023-01-03 22:46:00,1278,Phoenix
+6,106,Tablet,Electronics,526.66,1,2023-01-04 04:49:00,1800,Philadelphia
+7,102,Laptop,Accessories,1964.57,8,2023-01-04 22:59:00,1964,Houston
+8,106,Tablet,Appliances,490.06,3,2023-01-05 16:34:00,1213,San Diego
+9,109,Printer,Accessories,346.36,3,2023-01-06 14:33:00,1459,New York
+10,104,Keyboard,Appliances,85.05,9,2023-01-07 04:02:00,1820,Los Angeles
+11,101,Monitor,Accessories,234.93,6,2023-01-08 02:25:00,1209,Phoenix
+12,102,Camera,Accessories,1456.82,4,2023-01-08 19:43:00,1466,Los Angeles
+13,105,Camera,Electronics,326.33,4,2023-01-09 05:13:00,1949,Los Angeles
+14,107,Laptop,Accessories,1722.45,7,2023-01-09 21:23:00,1398,Houston
+15,108,Headphones,Accessories,291.39,6,2023-01-10 18:29:00,1567,Phoenix
+16,103,Headphones,Electronics,134.73,2,2023-01-11 00:22:00,1915,Los Angeles
+17,109,Smartphone,Appliances,753.68,9,2023-01-11 21:34:00,1699,Chicago
+18,102,Smartphone,Appliances,693.56,2,2023-01-12 07:44:00,1711,San Diego
+19,104,Camera,Accessories,1213.81,8,2023-01-12 15:32:00,1856,New York
+20,104,Mouse,Electronics,44.65,4,2023-01-13 06:56:00,1884,Philadelphia
+21,106,Tablet,Appliances,501.52,1,2023-01-13 13:24:00,1640,Houston
+22,106,Smartphone,Electronics,871.13,1,2023-01-14 02:03:00,1527,Phoenix
+23,103,Keyboard,Accessories,44.98,9,2023-01-14 09:25:00,1752,Phoenix
+24,109,Camera,Electronics,574.3,4,2023-01-15 08:11:00,1055,Houston
+25,105,Mouse,Accessories,27.23,1,2023-01-15 16:47:00,1161,Los Angeles
+26,102,Tablet,Appliances,538.87,3,2023-01-16 06:50:00,1518,Houston
+27,106,Headphones,Appliances,96.81,3,2023-01-16 07:35:00,1620,San Antonio
+28,103,Camera,Appliances,1116.42,7,2023-01-16 19:38:00,1011,San Diego
+29,108,Mouse,Appliances,25.76,6,2023-01-17 08:14:00,1977,Phoenix
+30,103,Laptop,Electronics,1754.69,8,2023-01-17 11:37:00,1836,Chicago
+31,105,Smartphone,Electronics,325.79,7,2023-01-17 20:36:00,1199,San Antonio
+32,104,Monitor,Electronics,367.19,1,2023-01-18 03:02:00,1546,Los Angeles
+33,104,Smartphone,Accessories,754.88,3,2023-01-18 13:32:00,1653,San Diego
+34,102,Tablet,Appliances,670.47,9,2023-01-19 05:40:00,1720,Philadelphia
+35,108,Camera,Appliances,1156.04,4,2023-01-19 17:58:00,1452,Houston
+36,103,Headphones,Appliances,249.08,3,2023-01-19 23:58:00,1661,Phoenix
+37,104,Mouse,Electronics,46.18,5,2023-01-20 16:21:00,1583,Philadelphia
+38,106,Monitor,Electronics,370.02,8,2023-01-20 19:46:00,1764,Phoenix
+39,109,Smartphone,Appliances,503.11,1,2023-01-21 16:57:00,1383,Phoenix
+40,104,Printer,Accessories,360.93,2,2023-01-22 09:28:00,1982,Chicago
+41,103,Printer,Electronics,324.27,7,2023-01-23 03:21:00,1541,Los Angeles
+42,105,Headphones,Appliances,156.11,1,2023-01-23 09:27:00,1299,Houston
+43,109,Keyboard,Appliances,76.84,5,2023-01-23 13:40:00,1812,Los Angeles
+44,101,Monitor,Appliances,447.08,8,2023-01-23 14:58:00,1570,Phoenix
+45,105,Mouse,Accessories,49.03,6,2023-01-24 03:47:00,1582,Chicago
+46,104,Smartphone,Appliances,966.65,3,2023-01-24 14:19:00,1471,Philadelphia
+47,105,Smartphone,Electronics,527.73,7,2023-01-25 06:46:00,1134,San Antonio
+48,107,Headphones,Accessories,155.42,3,2023-01-25 13:43:00,1310,Chicago
+49,107,Printer,Accessories,132.86,5,2023-01-26 07:22:00,1451,Phoenix
+50,107,Printer,Appliances,174.26,7,2023-01-26 12:34:00,1415,Los Angeles
+51,101,Keyboard,Electronics,90.59,2,2023-01-27 08:01:00,1680,Philadelphia
+52,109,Printer,Electronics,208.25,4,2023-01-27 11:18:00,1974,Los Angeles
+53,107,Headphones,Appliances,205.14,2,2023-01-28 03:55:00,1121,Chicago
+54,104,Keyboard,Appliances,73.28,7,2023-01-28 08:15:00,1618,San Diego
+55,104,Headphones,Electronics,245.46,3,2023-01-29 07:25:00,1365,Philadelphia
+56,102,Laptop,Accessories,1019.36,9,2023-01-29 17:21:00,1938,New York
+57,106,Tablet,Accessories,352.41,6,2023-01-30 13:37:00,1495,Chicago
+58,103,Printer,Appliances,234.5,1,2023-01-30 22:31:00,1420,San Diego
+59,101,Monitor,Appliances,245.94,8,2023-01-30 22:55:00,1913,Philadelphia
+60,105,Smartphone,Electronics,988.03,7,2023-01-31 14:38:00,1813,San Diego
+61,106,Tablet,Electronics,617.47,1,2023-02-01 08:57:00,1415,Chicago
+62,105,Printer,Electronics,243.91,3,2023-02-02 00:20:00,1644,Houston
+63,105,Camera,Electronics,1355.12,3,2023-02-02 23:58:00,1920,Chicago
+64,108,Headphones,Appliances,136.91,3,2023-02-03 11:17:00,1967,San Diego
+65,101,Mouse,Appliances,41.43,7,2023-02-03 13:07:00,1684,San Diego
+66,108,Headphones,Electronics,105.92,6,2023-02-03 14:37:00,1838,San Antonio
+67,107,Monitor,Appliances,408.93,2,2023-02-03 15:14:00,1915,San Diego
+68,101,Keyboard,Appliances,56.52,5,2023-02-04 04:56:00,1662,New York
+69,109,Laptop,Electronics,929.0,6,2023-02-04 21:29:00,1325,Philadelphia
+70,104,Headphones,Accessories,118.32,2,2023-02-05 07:01:00,1600,San Diego
+71,107,Headphones,Accessories,150.57,1,2023-02-05 16:45:00,1643,San Diego
+72,103,Headphones,Electronics,237.32,4,2023-02-05 21:52:00,1707,San Diego
+73,108,Tablet,Accessories,236.49,4,2023-02-05 22:54:00,1873,Philadelphia
+74,104,Camera,Appliances,1091.46,4,2023-02-06 03:59:00,1220,Chicago
+75,102,Tablet,Accessories,558.01,1,2023-02-06 06:58:00,1484,Los Angeles
+76,102,Mouse,Electronics,36.16,3,2023-02-06 15:58:00,1395,Houston
+77,108,Keyboard,Electronics,80.85,7,2023-02-07 07:30:00,1132,San Antonio
+78,108,Camera,Accessories,513.8,4,2023-02-07 23:02:00,1665,Houston
+79,101,Tablet,Accessories,493.55,2,2023-02-08 13:07:00,1695,Chicago
+80,106,Laptop,Appliances,1929.37,8,2023-02-09 06:47:00,1313,Houston
+81,109,Headphones,Accessories,202.7,1,2023-02-09 19:17:00,1297,Houston
+82,109,Headphones,Accessories,202.83,9,2023-02-10 13:34:00,1339,Chicago
+83,102,Tablet,Accessories,568.22,5,2023-02-11 07:08:00,1284,New York
+84,108,Smartphone,Appliances,533.24,2,2023-02-11 19:27:00,1331,Philadelphia
+85,108,Monitor,Accessories,380.19,4,2023-02-12 17:34:00,1308,Chicago
+86,104,Camera,Appliances,1399.48,3,2023-02-13 16:25:00,1646,Los Angeles
+87,104,Mouse,Appliances,10.44,7,2023-02-14 05:42:00,1690,Phoenix
+88,105,Laptop,Electronics,1844.14,6,2023-02-14 23:51:00,1989,New York
+89,107,Camera,Electronics,562.34,9,2023-02-15 12:18:00,1131,Chicago
+90,101,Keyboard,Appliances,56.47,4,2023-02-15 22:45:00,1224,New York
+91,109,Mouse,Appliances,44.09,3,2023-02-16 06:18:00,1212,Phoenix
+92,103,Keyboard,Appliances,85.91,7,2023-02-16 20:09:00,1902,Houston
+93,104,Keyboard,Electronics,91.35,6,2023-02-17 08:47:00,1589,Houston
+94,107,Tablet,Appliances,670.21,5,2023-02-17 23:08:00,1854,Phoenix
+95,105,Monitor,Electronics,278.86,7,2023-02-18 12:47:00,1676,Houston
+96,105,Keyboard,Electronics,72.51,5,2023-02-19 12:00:00,1811,New York
+97,101,Smartphone,Appliances,573.33,9,2023-02-20 05:41:00,1815,Houston
+98,102,Mouse,Appliances,24.03,4,2023-02-20 12:02:00,1736,Phoenix
+99,105,Smartphone,Appliances,602.12,1,2023-02-21 08:45:00,1951,Phoenix
+100,102,Monitor,Electronics,397.23,5,2023-02-21 19:34:00,1253,Philadelphia
+101,101,Laptop,Accessories,1401.73,1,2023-02-21 23:40:00,1331,Phoenix
+102,103,Monitor,Appliances,425.62,1,2023-02-22 03:51:00,1127,Los Angeles
+103,101,Printer,Accessories,323.57,1,2023-02-22 13:16:00,1510,San Antonio
+104,108,Camera,Accessories,324.57,1,2023-02-23 04:25:00,1741,New York
+105,108,Smartphone,Accessories,741.17,8,2023-02-24 03:15:00,1367,Phoenix
+106,108,Tablet,Accessories,418.29,2,2023-02-24 16:56:00,1706,Philadelphia
+107,107,Laptop,Accessories,1347.95,9,2023-02-25 04:51:00,1597,New York
+108,107,Printer,Electronics,345.51,7,2023-02-25 12:43:00,1913,San Diego
+109,102,Monitor,Electronics,319.04,3,2023-02-25 14:45:00,1779,Philadelphia
+110,109,Camera,Electronics,1362.75,9,2023-02-26 13:15:00,1113,Los Angeles
+111,107,Keyboard,Accessories,77.02,4,2023-02-27 02:16:00,1840,San Diego
+112,105,Headphones,Electronics,188.21,7,2023-02-27 14:44:00,1387,New York
+113,104,Mouse,Appliances,40.18,3,2023-02-27 16:45:00,1601,Chicago
+114,108,Smartphone,Accessories,326.84,5,2023-02-27 19:04:00,1672,San Antonio
+115,105,Laptop,Appliances,832.5,4,2023-02-27 20:31:00,1845,San Antonio
+116,106,Laptop,Accessories,900.02,6,2023-02-27 22:41:00,1345,Los Angeles
+117,104,Headphones,Accessories,159.39,9,2023-02-28 02:53:00,1268,Los Angeles
+118,102,Laptop,Accessories,1082.54,5,2023-02-28 16:00:00,1180,Houston
+119,107,Tablet,Accessories,692.13,1,2023-03-01 15:04:00,1309,Phoenix
+120,102,Smartphone,Appliances,679.6,5,2023-03-01 15:51:00,1255,San Diego
+121,107,Monitor,Accessories,364.97,5,2023-03-02 00:12:00,1793,Los Angeles
+122,107,Laptop,Accessories,1134.58,9,2023-03-02 07:17:00,1281,San Antonio
+123,101,Laptop,Electronics,1186.16,8,2023-03-03 06:36:00,1210,New York
+124,103,Monitor,Accessories,234.18,5,2023-03-03 22:41:00,1965,Chicago
+125,103,Monitor,Accessories,379.49,5,2023-03-04 10:52:00,1917,New York
+126,106,Printer,Accessories,242.11,2,2023-03-04 12:43:00,1832,San Antonio
+127,103,Camera,Accessories,921.22,9,2023-03-05 09:34:00,1893,New York
+128,109,Camera,Accessories,1010.4,4,2023-03-06 03:17:00,1386,Chicago
+129,105,Camera,Accessories,1222.57,7,2023-03-06 05:32:00,1757,San Diego
+130,106,Headphones,Appliances,72.59,6,2023-03-07 03:31:00,1202,Philadelphia
+131,106,Laptop,Appliances,1732.25,5,2023-03-07 13:41:00,1191,Houston
+132,108,Headphones,Accessories,190.81,5,2023-03-08 07:19:00,1263,San Antonio
+133,103,Camera,Appliances,1102.91,7,2023-03-08 23:46:00,1513,Phoenix
+134,109,Laptop,Electronics,1193.06,2,2023-03-09 06:54:00,1521,San Diego
+135,107,Printer,Electronics,222.82,9,2023-03-10 01:06:00,1723,San Antonio
+136,106,Headphones,Accessories,107.79,2,2023-03-10 04:25:00,1462,Los Angeles
+137,101,Monitor,Accessories,491.72,9,2023-03-10 13:45:00,1778,Phoenix
+138,104,Headphones,Appliances,174.25,4,2023-03-10 18:04:00,1131,Houston
+139,105,Laptop,Electronics,1995.29,6,2023-03-11 06:09:00,1138,Philadelphia
+140,102,Headphones,Accessories,172.45,1,2023-03-11 17:23:00,1653,Chicago
+141,101,Mouse,Electronics,18.79,5,2023-03-11 19:40:00,1212,Phoenix
+142,102,Monitor,Appliances,302.98,6,2023-03-12 10:56:00,1003,San Antonio
+143,108,Keyboard,Accessories,23.17,9,2023-03-13 02:32:00,1467,New York
+144,106,Printer,Accessories,371.43,9,2023-03-13 08:53:00,1703,Los Angeles
+145,102,Monitor,Accessories,427.42,9,2023-03-13 12:51:00,1034,Los Angeles
+146,109,Camera,Electronics,1170.98,3,2023-03-14 10:39:00,1241,Philadelphia
+147,108,Tablet,Appliances,504.91,4,2023-03-14 22:07:00,1875,Houston
+148,104,Smartphone,Electronics,705.88,8,2023-03-15 05:45:00,1144,Houston
+149,107,Laptop,Electronics,1996.07,8,2023-03-16 01:04:00,1009,San Diego
+150,103,Mouse,Accessories,21.12,2,2023-03-16 02:26:00,1852,Chicago
+151,106,Smartphone,Appliances,845.78,8,2023-03-16 12:21:00,1894,Houston
+152,103,Camera,Appliances,997.69,7,2023-03-16 23:15:00,1567,Phoenix
+153,103,Monitor,Accessories,490.35,9,2023-03-17 19:48:00,1889,Los Angeles
+154,109,Headphones,Appliances,256.95,5,2023-03-18 02:31:00,1120,Chicago
+155,106,Monitor,Accessories,499.41,2,2023-03-18 16:13:00,1903,San Antonio
+156,108,Monitor,Accessories,335.33,5,2023-03-18 19:21:00,1400,Houston
+157,104,Camera,Appliances,545.45,2,2023-03-19 03:34:00,1939,New York
+158,104,Camera,Appliances,904.42,5,2023-03-19 07:49:00,1847,Los Angeles
+159,108,Keyboard,Appliances,76.89,9,2023-03-20 06:16:00,1734,Chicago
+160,107,Tablet,Appliances,587.18,7,2023-03-20 13:21:00,1515,Los Angeles
+161,105,Smartphone,Electronics,300.36,7,2023-03-21 13:20:00,1026,Phoenix
+162,102,Headphones,Accessories,176.26,1,2023-03-22 09:11:00,1996,Philadelphia
+163,106,Headphones,Accessories,108.81,9,2023-03-22 17:16:00,1235,Houston
+164,101,Keyboard,Accessories,89.99,6,2023-03-23 00:32:00,1421,Philadelphia
+165,107,Camera,Accessories,483.49,7,2023-03-23 03:32:00,1716,San Antonio
+166,109,Printer,Electronics,299.94,2,2023-03-23 21:47:00,1184,Houston
+167,105,Tablet,Appliances,333.03,1,2023-03-24 12:48:00,1360,Houston
+168,105,Keyboard,Appliances,48.52,4,2023-03-24 23:32:00,1390,San Diego
+169,107,Headphones,Appliances,285.14,9,2023-03-25 01:51:00,1786,San Diego
+170,105,Monitor,Accessories,196.18,9,2023-03-25 14:58:00,1765,San Antonio
+171,104,Tablet,Electronics,247.5,3,2023-03-25 16:40:00,1414,New York
+172,101,Printer,Electronics,120.79,1,2023-03-26 00:28:00,1834,Phoenix
+173,106,Camera,Appliances,905.54,2,2023-03-26 05:11:00,1688,San Diego
+174,109,Keyboard,Accessories,71.34,9,2023-03-26 22:44:00,1629,New York
+175,104,Camera,Appliances,692.75,9,2023-03-26 23:02:00,1708,San Antonio
+176,104,Keyboard,Accessories,75.22,1,2023-03-27 11:38:00,1490,Phoenix
+177,105,Headphones,Appliances,65.26,9,2023-03-27 23:05:00,1219,Phoenix
+178,106,Printer,Appliances,357.2,1,2023-03-28 09:06:00,1872,San Antonio
+179,103,Keyboard,Electronics,85.33,4,2023-03-29 02:30:00,1058,Phoenix
+180,109,Headphones,Accessories,296.37,5,2023-03-30 01:00:00,1639,Houston
+181,101,Keyboard,Electronics,94.92,8,2023-03-31 00:00:00,1410,San Diego
+182,106,Camera,Electronics,727.44,5,2023-03-31 07:13:00,1701,San Antonio
+183,106,Monitor,Appliances,259.71,5,2023-04-01 06:56:00,1783,Houston
+184,108,Headphones,Accessories,236.49,4,2023-04-02 00:18:00,1976,San Diego
+185,105,Mouse,Accessories,15.36,9,2023-04-02 06:34:00,1352,San Diego
+186,109,Mouse,Appliances,22.56,8,2023-04-03 05:18:00,1603,Houston
+187,109,Tablet,Appliances,259.27,9,2023-04-04 00:52:00,1533,San Diego
+188,102,Tablet,Appliances,427.44,7,2023-04-04 17:43:00,1930,New York
+189,105,Monitor,Accessories,320.8,7,2023-04-05 05:39:00,1984,Chicago
+190,107,Laptop,Appliances,1053.39,5,2023-04-06 02:36:00,1481,Philadelphia
+191,102,Mouse,Appliances,11.07,1,2023-04-06 21:24:00,1368,San Antonio
+192,107,Laptop,Electronics,1663.23,6,2023-04-07 14:28:00,1398,San Antonio
+193,109,Monitor,Appliances,108.0,6,2023-04-08 02:45:00,1793,San Antonio
+194,108,Printer,Appliances,392.02,4,2023-04-08 06:26:00,1438,Phoenix
+195,109,Mouse,Accessories,18.86,2,2023-04-08 23:56:00,1093,San Antonio
+196,104,Camera,Appliances,1096.68,1,2023-04-09 18:04:00,1596,San Antonio
+197,108,Monitor,Accessories,273.9,3,2023-04-09 22:18:00,1218,New York
+198,109,Headphones,Electronics,64.92,9,2023-04-10 19:31:00,1942,Houston
+199,102,Camera,Electronics,866.62,1,2023-04-11 07:47:00,1431,Philadelphia
+200,103,Keyboard,Accessories,61.34,5,2023-04-11 21:33:00,1945,Houston
+201,101,Mouse,Appliances,44.19,6,2023-04-12 16:48:00,1096,Chicago
+202,101,Keyboard,Accessories,78.59,9,2023-04-12 17:18:00,1607,Houston
+203,106,Mouse,Appliances,13.17,1,2023-04-13 06:25:00,1947,Phoenix
+204,101,Laptop,Appliances,1051.0,5,2023-04-13 06:35:00,1293,Los Angeles
+205,105,Monitor,Appliances,224.76,1,2023-04-14 01:08:00,1117,San Diego
+206,106,Headphones,Accessories,79.1,2,2023-04-14 08:18:00,1898,San Antonio
+207,109,Monitor,Electronics,282.76,2,2023-04-15 03:49:00,1265,Philadelphia
+208,106,Smartphone,Accessories,989.02,5,2023-04-15 23:00:00,1571,San Antonio
+209,104,Mouse,Appliances,30.58,4,2023-04-16 10:38:00,1085,Houston
+210,101,Smartphone,Accessories,819.32,6,2023-04-16 12:42:00,1103,San Diego
+211,106,Tablet,Electronics,541.47,5,2023-04-17 11:27:00,1900,Chicago
+212,107,Printer,Accessories,354.97,2,2023-04-17 12:18:00,1695,Philadelphia
+213,105,Monitor,Electronics,186.29,9,2023-04-17 18:56:00,1087,Los Angeles
+214,106,Laptop,Electronics,1704.59,8,2023-04-18 00:10:00,1824,Philadelphia
+215,108,Headphones,Appliances,270.34,9,2023-04-18 10:58:00,1104,San Diego
+216,101,Mouse,Electronics,16.86,6,2023-04-18 19:32:00,1807,San Diego
+217,108,Headphones,Accessories,136.7,5,2023-04-19 03:54:00,1860,San Antonio
+218,102,Tablet,Accessories,685.05,5,2023-04-19 12:44:00,1389,San Antonio
+219,102,Keyboard,Appliances,82.46,2,2023-04-20 00:21:00,1164,Phoenix
+220,108,Headphones,Accessories,120.65,4,2023-04-20 12:35:00,1296,Phoenix
+221,102,Mouse,Appliances,32.56,2,2023-04-21 02:55:00,1329,Phoenix
+222,108,Smartphone,Accessories,583.03,2,2023-04-21 09:54:00,1427,Chicago
+223,105,Laptop,Accessories,1387.96,8,2023-04-21 13:08:00,1930,Los Angeles
+224,109,Headphones,Electronics,138.79,4,2023-04-21 18:20:00,1832,Phoenix
+225,109,Laptop,Electronics,1135.2,4,2023-04-22 10:56:00,1672,San Antonio
+226,108,Keyboard,Electronics,73.98,7,2023-04-22 22:58:00,1701,Houston
+227,109,Laptop,Accessories,1734.25,4,2023-04-23 21:01:00,1789,Los Angeles
+228,107,Keyboard,Appliances,89.92,9,2023-04-24 19:34:00,1244,Phoenix
+229,108,Keyboard,Appliances,32.43,9,2023-04-25 03:30:00,1986,San Diego
+230,106,Printer,Appliances,346.86,3,2023-04-25 13:14:00,1645,Los Angeles
+231,109,Printer,Electronics,176.44,6,2023-04-25 15:11:00,1561,Philadelphia
+232,102,Laptop,Accessories,1312.8,7,2023-04-25 19:35:00,1316,Houston
+233,103,Headphones,Electronics,275.36,3,2023-04-25 19:56:00,1731,New York
+234,102,Laptop,Accessories,1345.4,4,2023-04-26 03:53:00,1856,Phoenix
+235,106,Keyboard,Accessories,35.77,1,2023-04-26 13:02:00,1262,San Diego
+236,103,Printer,Accessories,147.96,9,2023-04-27 08:59:00,1303,Houston
+237,101,Camera,Electronics,867.58,7,2023-04-28 00:47:00,1050,San Diego
+238,104,Smartphone,Accessories,833.87,7,2023-04-28 17:48:00,1393,Chicago
+239,105,Laptop,Electronics,1996.65,9,2023-04-29 11:54:00,1668,Philadelphia
+240,104,Monitor,Electronics,414.96,6,2023-04-29 15:20:00,1274,Phoenix
+241,106,Monitor,Accessories,450.8,8,2023-04-30 01:51:00,1789,New York
+242,103,Mouse,Accessories,39.91,5,2023-04-30 04:50:00,1027,San Diego
+243,106,Laptop,Accessories,1874.52,8,2023-04-30 19:38:00,1138,Philadelphia
+244,101,Laptop,Electronics,891.55,1,2023-05-01 01:20:00,1938,Houston
+245,106,Tablet,Accessories,664.97,3,2023-05-01 08:40:00,1472,Philadelphia
+246,108,Keyboard,Accessories,51.71,4,2023-05-02 02:59:00,1935,Houston
+247,108,Mouse,Appliances,46.86,9,2023-05-02 07:49:00,1771,San Diego
+248,101,Keyboard,Appliances,26.06,8,2023-05-02 17:06:00,1469,Los Angeles
+249,107,Keyboard,Appliances,77.22,8,2023-05-03 12:34:00,1051,Phoenix
+250,104,Headphones,Accessories,233.92,2,2023-05-03 23:23:00,1514,New York
+251,106,Smartphone,Electronics,997.84,7,2023-05-04 02:51:00,1622,Chicago
+252,106,Laptop,Appliances,1722.63,3,2023-05-04 07:23:00,1070,Los Angeles
+253,105,Mouse,Electronics,25.3,6,2023-05-04 14:18:00,1318,Phoenix
+254,109,Headphones,Appliances,189.31,4,2023-05-05 13:59:00,1739,New York
+255,108,Printer,Appliances,209.97,6,2023-05-05 20:23:00,1060,Los Angeles
+256,106,Camera,Electronics,535.22,4,2023-05-06 17:48:00,1438,New York
+257,104,Keyboard,Appliances,39.88,3,2023-05-07 08:39:00,1705,Philadelphia
+258,104,Monitor,Electronics,188.8,2,2023-05-08 04:30:00,1486,New York
+259,109,Mouse,Accessories,31.95,4,2023-05-08 21:52:00,1552,San Diego
+260,104,Tablet,Accessories,653.08,2,2023-05-09 08:52:00,1691,Los Angeles
+261,107,Laptop,Electronics,1895.27,7,2023-05-09 12:59:00,1135,Los Angeles
+262,106,Monitor,Electronics,121.91,1,2023-05-10 10:59:00,1421,Phoenix
+263,102,Headphones,Accessories,69.97,1,2023-05-10 17:53:00,1741,Los Angeles
+264,105,Monitor,Electronics,198.05,5,2023-05-11 16:17:00,1963,San Antonio
+265,103,Laptop,Accessories,1106.07,7,2023-05-12 04:12:00,1772,San Antonio
+266,109,Monitor,Accessories,137.96,1,2023-05-12 07:13:00,1263,Philadelphia
+267,101,Printer,Electronics,216.54,4,2023-05-13 05:13:00,1457,San Antonio
+268,104,Tablet,Appliances,493.86,5,2023-05-13 20:57:00,1376,Phoenix
+269,104,Mouse,Electronics,33.13,2,2023-05-14 11:50:00,1802,New York
+270,109,Laptop,Accessories,1452.12,7,2023-05-14 12:51:00,1021,Los Angeles
+271,101,Monitor,Appliances,235.47,4,2023-05-15 09:24:00,1852,Phoenix
+272,102,Tablet,Appliances,553.23,8,2023-05-15 12:10:00,1773,Phoenix
+273,101,Laptop,Accessories,1791.78,1,2023-05-16 04:59:00,1205,Chicago
+274,101,Tablet,Appliances,373.14,1,2023-05-17 03:03:00,1713,Phoenix
+275,101,Monitor,Appliances,134.21,1,2023-05-17 13:58:00,1663,Phoenix
+276,103,Keyboard,Electronics,43.71,4,2023-05-17 19:49:00,1555,Chicago
+277,104,Mouse,Accessories,15.49,1,2023-05-18 13:54:00,1248,Houston
+278,102,Smartphone,Appliances,627.15,5,2023-05-18 18:17:00,1418,Philadelphia
+279,101,Smartphone,Accessories,409.15,6,2023-05-18 20:21:00,1281,Los Angeles
+280,105,Mouse,Electronics,28.51,7,2023-05-19 17:23:00,1982,San Diego
+281,106,Keyboard,Electronics,37.68,8,2023-05-20 08:55:00,1363,Chicago
+282,102,Laptop,Electronics,1686.48,8,2023-05-21 03:29:00,1279,San Antonio
+283,103,Tablet,Appliances,213.78,2,2023-05-21 05:48:00,1102,Phoenix
+284,103,Keyboard,Electronics,64.38,4,2023-05-22 04:54:00,1960,Phoenix
+285,102,Smartphone,Accessories,418.64,7,2023-05-23 04:51:00,1948,Los Angeles
+286,104,Laptop,Electronics,801.19,9,2023-05-23 19:11:00,1346,Philadelphia
+287,105,Headphones,Appliances,267.3,9,2023-05-24 13:48:00,1968,San Antonio
+288,108,Keyboard,Electronics,73.72,3,2023-05-24 16:02:00,1057,New York
+289,106,Smartphone,Appliances,369.26,7,2023-05-25 12:30:00,1368,Chicago
+290,109,Monitor,Accessories,365.63,4,2023-05-26 02:09:00,1101,Houston
+291,103,Tablet,Electronics,505.82,9,2023-05-26 19:51:00,1031,Los Angeles
+292,109,Printer,Electronics,242.01,7,2023-05-27 12:49:00,1686,Los Angeles
+293,104,Laptop,Accessories,1303.11,6,2023-05-27 20:26:00,1126,Chicago
+294,108,Monitor,Accessories,454.83,9,2023-05-28 03:44:00,1617,Phoenix
+295,107,Printer,Appliances,173.54,7,2023-05-28 15:04:00,1024,Phoenix
+296,107,Keyboard,Electronics,51.86,8,2023-05-29 01:51:00,1455,San Diego
+297,109,Monitor,Electronics,231.65,5,2023-05-29 12:13:00,1440,San Diego
+298,102,Monitor,Electronics,408.48,4,2023-05-30 09:01:00,1079,Houston
+299,105,Smartphone,Electronics,941.53,1,2023-05-31 04:53:00,1839,Chicago
+300,103,Camera,Accessories,1319.74,8,2023-05-31 23:44:00,1831,Los Angeles
+301,107,Monitor,Electronics,419.08,6,2023-06-01 23:08:00,1295,San Antonio
+302,103,Smartphone,Electronics,990.75,4,2023-06-01 23:32:00,1892,Chicago
+303,105,Headphones,Electronics,224.29,3,2023-06-02 13:01:00,1216,New York
+304,105,Printer,Appliances,325.32,5,2023-06-03 11:12:00,1077,San Diego
+305,102,Tablet,Appliances,691.4,4,2023-06-04 02:47:00,1876,Los Angeles
+306,101,Printer,Appliances,102.1,7,2023-06-05 01:49:00,1654,Houston
+307,106,Laptop,Accessories,1560.86,6,2023-06-05 07:59:00,1653,Houston
+308,101,Laptop,Accessories,1686.77,3,2023-06-06 00:36:00,1885,San Diego
+309,109,Monitor,Accessories,467.13,1,2023-06-06 03:27:00,1115,Los Angeles
+310,105,Monitor,Electronics,453.54,7,2023-06-06 07:09:00,1302,Phoenix
+311,101,Monitor,Electronics,436.78,5,2023-06-06 14:32:00,1895,Los Angeles
+312,108,Headphones,Accessories,286.45,1,2023-06-07 10:09:00,1120,Los Angeles
+313,101,Mouse,Appliances,31.5,1,2023-06-08 00:31:00,1074,New York
+314,104,Tablet,Electronics,203.46,6,2023-06-08 06:47:00,1174,Los Angeles
+315,107,Mouse,Appliances,10.44,4,2023-06-08 11:28:00,1021,Philadelphia
+316,104,Smartphone,Electronics,681.25,8,2023-06-08 23:21:00,1886,San Antonio
+317,105,Smartphone,Electronics,604.69,2,2023-06-09 20:04:00,1667,Philadelphia
+318,107,Printer,Appliances,235.37,4,2023-06-10 12:02:00,1783,Chicago
+319,104,Tablet,Accessories,400.2,8,2023-06-11 01:33:00,1759,Chicago
+320,105,Printer,Appliances,375.32,8,2023-06-11 15:20:00,1178,San Antonio
+321,107,Tablet,Accessories,379.59,5,2023-06-11 23:26:00,1726,Houston
+322,101,Smartphone,Accessories,899.36,3,2023-06-12 05:01:00,1326,Phoenix
+323,103,Monitor,Electronics,461.15,4,2023-06-12 17:23:00,1009,Houston
+324,101,Monitor,Electronics,299.8,3,2023-06-13 00:13:00,1912,New York
+325,103,Tablet,Electronics,423.47,2,2023-06-13 01:07:00,1053,Los Angeles
+326,102,Headphones,Accessories,240.26,4,2023-06-13 12:48:00,1995,San Antonio
+327,105,Mouse,Accessories,38.32,9,2023-06-14 07:07:00,1396,Houston
+328,105,Keyboard,Appliances,46.28,6,2023-06-14 12:56:00,1692,Los Angeles
+329,109,Mouse,Electronics,14.1,4,2023-06-15 05:11:00,1039,Houston
+330,108,Camera,Electronics,617.82,1,2023-06-15 11:44:00,1920,Los Angeles
+331,103,Keyboard,Accessories,30.48,7,2023-06-15 20:58:00,1592,Houston
+332,101,Monitor,Electronics,217.89,2,2023-06-16 16:39:00,1210,Philadelphia
+333,105,Printer,Accessories,178.55,6,2023-06-17 06:46:00,1249,Philadelphia
+334,103,Keyboard,Appliances,71.02,1,2023-06-17 08:07:00,1476,San Diego
+335,105,Monitor,Appliances,481.8,7,2023-06-18 04:39:00,1907,Philadelphia
+336,109,Keyboard,Electronics,74.86,4,2023-06-18 18:25:00,1312,San Antonio
+337,101,Monitor,Appliances,470.66,3,2023-06-19 12:55:00,1889,Chicago
+338,101,Camera,Electronics,1240.96,7,2023-06-20 01:19:00,1850,San Antonio
+339,109,Camera,Electronics,1173.45,3,2023-06-20 04:16:00,1905,San Antonio
+340,103,Laptop,Accessories,1296.87,8,2023-06-20 12:47:00,1067,New York
+341,105,Tablet,Accessories,362.4,4,2023-06-20 15:06:00,1868,Houston
+342,109,Monitor,Electronics,438.51,3,2023-06-21 09:52:00,1998,Chicago
+343,105,Smartphone,Appliances,933.78,7,2023-06-21 17:45:00,1454,San Antonio
+344,103,Keyboard,Appliances,56.15,7,2023-06-22 02:47:00,1306,San Antonio
+345,109,Camera,Electronics,310.88,9,2023-06-22 06:01:00,1873,Phoenix
+346,107,Smartphone,Electronics,854.77,7,2023-06-22 14:07:00,1058,Houston
+347,107,Headphones,Appliances,121.27,6,2023-06-23 12:25:00,1803,Los Angeles
+348,108,Printer,Appliances,102.97,3,2023-06-24 01:50:00,1940,New York
+349,105,Mouse,Accessories,42.2,4,2023-06-24 05:57:00,1252,Chicago
+350,102,Camera,Accessories,920.9,8,2023-06-24 16:27:00,1695,Chicago
+351,109,Smartphone,Appliances,779.65,6,2023-06-24 23:45:00,1408,New York
+352,103,Keyboard,Accessories,93.18,9,2023-06-25 00:58:00,1725,San Diego
+353,102,Monitor,Accessories,316.47,8,2023-06-25 19:11:00,1023,Houston
+354,105,Camera,Electronics,903.83,8,2023-06-26 07:45:00,1308,Los Angeles
+355,108,Laptop,Accessories,1148.79,7,2023-06-27 03:21:00,1431,Phoenix
+356,103,Tablet,Accessories,352.6,1,2023-06-27 17:12:00,1418,Houston
+357,106,Camera,Electronics,1255.85,5,2023-06-27 18:46:00,1825,New York
+358,109,Keyboard,Appliances,55.92,7,2023-06-28 02:01:00,1906,San Diego
+359,102,Monitor,Accessories,165.41,9,2023-06-28 09:38:00,1569,Houston
+360,108,Mouse,Accessories,13.78,4,2023-06-28 13:27:00,1628,San Antonio
+361,107,Keyboard,Appliances,57.83,8,2023-06-28 13:57:00,1405,Houston
+362,103,Tablet,Accessories,432.48,1,2023-06-28 19:32:00,1880,San Diego
+363,101,Keyboard,Appliances,72.28,4,2023-06-29 06:32:00,1039,New York
+364,106,Monitor,Electronics,288.43,4,2023-06-29 16:01:00,1576,San Diego
+365,102,Laptop,Appliances,972.17,2,2023-06-29 18:58:00,1442,San Diego
+366,103,Laptop,Appliances,1409.36,3,2023-06-30 08:42:00,1805,New York
+367,105,Printer,Appliances,372.04,3,2023-06-30 18:10:00,1919,San Diego
+368,108,Monitor,Electronics,163.78,9,2023-07-01 00:59:00,1528,Phoenix
+369,102,Laptop,Appliances,1627.71,7,2023-07-01 13:56:00,1400,New York
+370,106,Mouse,Appliances,33.75,2,2023-07-02 10:57:00,1380,New York
+371,101,Laptop,Electronics,1698.3,9,2023-07-03 08:39:00,1418,New York
+372,107,Camera,Accessories,480.72,8,2023-07-03 09:56:00,1294,San Antonio
+373,104,Headphones,Accessories,285.4,6,2023-07-04 01:29:00,1758,San Antonio
+374,101,Tablet,Appliances,510.48,6,2023-07-04 12:05:00,1576,San Antonio
+375,109,Printer,Electronics,354.12,2,2023-07-04 21:05:00,1093,Chicago
+376,109,Keyboard,Electronics,39.73,3,2023-07-05 16:47:00,1590,New York
+377,103,Tablet,Appliances,569.71,6,2023-07-06 12:38:00,1925,New York
+378,106,Keyboard,Appliances,82.48,3,2023-07-07 08:47:00,1718,New York
+379,107,Printer,Accessories,219.23,7,2023-07-08 08:20:00,1354,Phoenix
+380,104,Printer,Accessories,215.19,5,2023-07-08 08:32:00,1946,San Antonio
+381,106,Headphones,Appliances,214.45,4,2023-07-08 11:21:00,1049,Houston
+382,109,Camera,Electronics,412.09,8,2023-07-09 01:12:00,1586,San Antonio
+383,106,Monitor,Appliances,394.25,2,2023-07-09 08:41:00,1003,New York
+384,107,Keyboard,Electronics,23.43,3,2023-07-09 16:10:00,1503,New York
+385,106,Keyboard,Accessories,35.25,4,2023-07-10 11:00:00,1447,San Diego
+386,107,Smartphone,Appliances,764.9,6,2023-07-10 18:07:00,1890,Phoenix
+387,101,Printer,Electronics,129.5,5,2023-07-11 10:03:00,1505,Houston
+388,106,Printer,Accessories,391.55,5,2023-07-12 01:19:00,1646,Phoenix
+389,109,Headphones,Appliances,267.1,7,2023-07-12 20:01:00,1921,San Diego
+390,103,Headphones,Appliances,206.58,8,2023-07-13 06:32:00,1092,Philadelphia
+391,106,Monitor,Accessories,427.62,6,2023-07-13 10:18:00,1523,Los Angeles
+392,104,Keyboard,Appliances,91.01,3,2023-07-13 17:45:00,1545,Los Angeles
+393,107,Printer,Accessories,177.84,4,2023-07-13 21:08:00,1260,Los Angeles
+394,107,Printer,Electronics,354.82,1,2023-07-14 13:16:00,1892,New York
+395,109,Camera,Appliances,533.75,5,2023-07-15 00:31:00,1338,Phoenix
+396,104,Camera,Accessories,796.01,8,2023-07-15 22:32:00,1214,New York
+397,108,Smartphone,Accessories,690.78,3,2023-07-16 09:06:00,1737,Los Angeles
+398,108,Headphones,Electronics,228.47,4,2023-07-16 09:22:00,1818,Houston
+399,108,Monitor,Appliances,112.06,4,2023-07-17 08:44:00,1769,Houston
+400,108,Laptop,Accessories,1148.61,6,2023-07-18 07:24:00,1728,Philadelphia
+401,106,Laptop,Accessories,1530.22,9,2023-07-18 17:42:00,1207,Phoenix
+402,108,Keyboard,Accessories,48.59,3,2023-07-19 11:06:00,1051,Philadelphia
+403,106,Printer,Appliances,332.51,4,2023-07-19 18:26:00,1974,San Antonio
+404,102,Keyboard,Appliances,72.13,6,2023-07-20 15:34:00,1135,Houston
+405,103,Tablet,Electronics,317.2,6,2023-07-21 12:42:00,1076,Los Angeles
+406,106,Printer,Electronics,143.78,7,2023-07-22 04:53:00,1673,Philadelphia
+407,107,Laptop,Electronics,1554.86,1,2023-07-22 11:25:00,1797,Philadelphia
+408,104,Laptop,Appliances,1340.56,9,2023-07-22 23:29:00,1347,Philadelphia
+409,101,Smartphone,Accessories,418.27,2,2023-07-23 11:45:00,1674,Phoenix
+410,104,Laptop,Appliances,1191.65,4,2023-07-24 09:11:00,1479,San Diego
+411,106,Headphones,Appliances,125.76,3,2023-07-24 12:51:00,1828,San Antonio
+412,108,Monitor,Appliances,143.25,3,2023-07-25 06:03:00,1621,Phoenix
+413,104,Printer,Electronics,264.07,5,2023-07-25 13:29:00,1203,Los Angeles
+414,101,Keyboard,Accessories,81.09,7,2023-07-25 13:43:00,1065,Los Angeles
+415,105,Printer,Appliances,272.64,7,2023-07-25 20:10:00,1896,Los Angeles
+416,107,Printer,Electronics,347.89,7,2023-07-26 06:52:00,1954,Philadelphia
+417,106,Laptop,Appliances,953.08,3,2023-07-27 00:18:00,1245,San Diego
+418,103,Laptop,Accessories,1322.73,9,2023-07-27 04:03:00,1603,Los Angeles
+419,107,Tablet,Electronics,504.71,6,2023-07-27 07:58:00,1961,San Antonio
+420,104,Smartphone,Appliances,773.2,8,2023-07-28 06:43:00,1644,Phoenix
+421,105,Printer,Electronics,308.74,1,2023-07-28 23:23:00,1290,Houston
+422,107,Tablet,Accessories,564.48,4,2023-07-29 11:14:00,1103,Los Angeles
+423,102,Printer,Accessories,295.43,7,2023-07-30 06:32:00,1237,Chicago
+424,104,Headphones,Electronics,73.56,9,2023-07-31 02:34:00,1035,Phoenix
+425,104,Laptop,Appliances,1634.37,3,2023-07-31 15:46:00,1061,New York
+426,106,Tablet,Accessories,562.39,6,2023-07-31 23:03:00,1274,Houston
+427,107,Mouse,Accessories,49.74,8,2023-08-01 16:58:00,1335,Phoenix
+428,104,Headphones,Appliances,223.34,3,2023-08-02 02:39:00,1625,Los Angeles
+429,101,Keyboard,Electronics,74.95,6,2023-08-03 00:24:00,1306,Philadelphia
+430,101,Tablet,Electronics,457.41,9,2023-08-03 18:12:00,1087,San Antonio
+431,105,Camera,Appliances,1341.51,9,2023-08-04 05:39:00,1726,Chicago
+432,101,Keyboard,Accessories,99.75,6,2023-08-04 11:44:00,1380,New York
+433,103,Mouse,Accessories,41.16,5,2023-08-04 16:13:00,1114,Houston
+434,109,Smartphone,Appliances,728.75,1,2023-08-05 14:10:00,1450,Los Angeles
+435,103,Monitor,Appliances,131.58,3,2023-08-06 10:28:00,1377,Phoenix
+436,103,Laptop,Electronics,1672.09,3,2023-08-07 09:43:00,1041,San Diego
+437,109,Monitor,Electronics,383.42,4,2023-08-07 11:01:00,1554,Phoenix
+438,105,Laptop,Appliances,1730.68,5,2023-08-07 14:10:00,1162,Houston
+439,108,Monitor,Accessories,149.82,8,2023-08-08 13:44:00,1099,Chicago
+440,109,Smartphone,Electronics,757.61,9,2023-08-09 07:13:00,1526,Philadelphia
+441,106,Mouse,Appliances,21.83,7,2023-08-10 05:19:00,1534,San Antonio
+442,107,Mouse,Accessories,40.41,6,2023-08-10 16:30:00,1283,Los Angeles
+443,107,Camera,Electronics,588.45,3,2023-08-10 22:28:00,1035,Houston
+444,107,Headphones,Appliances,220.99,9,2023-08-11 14:27:00,1136,Houston
+445,104,Camera,Appliances,653.99,1,2023-08-12 09:05:00,1100,Phoenix
+446,102,Laptop,Accessories,810.79,9,2023-08-12 14:41:00,1045,San Diego
+447,102,Tablet,Accessories,516.68,3,2023-08-13 10:29:00,1160,Houston
+448,107,Mouse,Appliances,14.53,9,2023-08-14 01:32:00,1317,New York
+449,107,Laptop,Accessories,1591.15,1,2023-08-14 07:13:00,1101,New York
+450,107,Camera,Appliances,1410.73,8,2023-08-14 21:07:00,1977,Los Angeles
+451,108,Mouse,Accessories,48.77,6,2023-08-15 06:34:00,1953,Houston
+452,103,Laptop,Accessories,1083.11,9,2023-08-15 07:46:00,1039,Phoenix
+453,105,Smartphone,Electronics,866.48,4,2023-08-16 01:32:00,1006,Philadelphia
+454,106,Mouse,Electronics,24.14,5,2023-08-16 08:23:00,1291,Los Angeles
+455,108,Camera,Accessories,1380.55,6,2023-08-16 23:21:00,1475,Chicago
+456,108,Keyboard,Appliances,83.0,9,2023-08-17 13:19:00,1969,Phoenix
+457,103,Laptop,Accessories,888.71,6,2023-08-18 00:03:00,1805,Chicago
+458,104,Smartphone,Electronics,585.0,9,2023-08-18 00:24:00,1601,Los Angeles
+459,106,Monitor,Appliances,234.93,2,2023-08-18 17:29:00,1454,San Diego
+460,104,Monitor,Accessories,414.07,4,2023-08-19 04:47:00,1981,New York
+461,104,Printer,Accessories,223.09,3,2023-08-19 23:07:00,1451,Phoenix
+462,105,Smartphone,Accessories,779.21,4,2023-08-20 09:10:00,1349,Philadelphia
+463,107,Printer,Accessories,280.73,1,2023-08-21 08:52:00,1863,Phoenix
+464,102,Printer,Electronics,392.69,2,2023-08-21 10:20:00,1769,Los Angeles
+465,102,Printer,Electronics,381.34,4,2023-08-21 10:37:00,1174,Phoenix
+466,109,Tablet,Electronics,413.85,4,2023-08-22 09:10:00,1792,Phoenix
+467,104,Mouse,Electronics,38.94,5,2023-08-23 00:53:00,1321,San Diego
+468,105,Mouse,Appliances,43.18,9,2023-08-23 21:27:00,1068,Los Angeles
+469,103,Monitor,Appliances,459.55,1,2023-08-24 11:11:00,1756,San Antonio
+470,102,Laptop,Appliances,881.76,8,2023-08-24 17:34:00,1154,Houston
+471,108,Headphones,Accessories,125.52,3,2023-08-25 04:14:00,1046,Los Angeles
+472,104,Smartphone,Appliances,524.16,9,2023-08-25 23:44:00,1636,Phoenix
+473,101,Headphones,Electronics,158.61,8,2023-08-26 07:17:00,1948,Philadelphia
+474,106,Camera,Electronics,503.12,8,2023-08-26 20:53:00,1508,Philadelphia
+475,106,Laptop,Accessories,1395.45,9,2023-08-27 20:30:00,1461,San Diego
+476,102,Printer,Appliances,298.96,4,2023-08-28 01:40:00,1617,Los Angeles
+477,102,Tablet,Accessories,448.68,5,2023-08-28 17:11:00,1744,Phoenix
+478,108,Headphones,Accessories,216.45,7,2023-08-29 01:23:00,1669,Chicago
+479,107,Keyboard,Appliances,25.32,2,2023-08-29 14:03:00,1914,Chicago
+480,102,Tablet,Accessories,637.99,7,2023-08-29 14:04:00,1887,New York
+481,101,Camera,Appliances,1426.88,3,2023-08-29 14:45:00,1943,San Antonio
+482,108,Tablet,Appliances,508.95,6,2023-08-30 01:57:00,1535,San Diego
+483,102,Printer,Accessories,364.42,6,2023-08-30 05:29:00,1709,Los Angeles
+484,105,Printer,Electronics,139.43,6,2023-08-31 04:06:00,1648,Los Angeles
+485,106,Printer,Appliances,339.23,2,2023-08-31 09:10:00,1710,Chicago
+486,101,Laptop,Electronics,942.98,9,2023-08-31 20:41:00,1415,Chicago
+487,102,Keyboard,Electronics,52.64,8,2023-09-01 16:19:00,1624,Chicago
+488,104,Laptop,Appliances,1188.58,7,2023-09-02 02:35:00,1716,San Diego
+489,102,Printer,Electronics,275.68,9,2023-09-02 11:18:00,1641,Philadelphia
+490,106,Camera,Accessories,661.82,4,2023-09-02 11:43:00,1342,Philadelphia
+491,104,Printer,Accessories,291.19,2,2023-09-03 01:11:00,1999,New York
+492,103,Laptop,Electronics,1240.86,4,2023-09-03 01:36:00,1759,New York
+493,106,Tablet,Accessories,630.4,3,2023-09-03 11:32:00,1332,Houston
+494,109,Tablet,Appliances,516.94,2,2023-09-04 06:22:00,1348,Philadelphia
+495,108,Printer,Appliances,164.59,2,2023-09-05 01:25:00,1243,Los Angeles
+496,102,Monitor,Electronics,234.45,8,2023-09-05 03:13:00,1837,New York
+497,103,Tablet,Accessories,623.71,5,2023-09-06 01:47:00,1266,Phoenix
+498,102,Mouse,Electronics,25.46,6,2023-09-06 04:47:00,1679,Los Angeles
+499,107,Mouse,Accessories,31.43,8,2023-09-06 19:28:00,1682,Houston
+500,109,Keyboard,Appliances,71.92,7,2023-09-06 21:39:00,1194,Chicago
+501,101,Mouse,Accessories,23.91,7,2023-09-07 07:42:00,1174,Houston
+502,103,Tablet,Accessories,346.99,7,2023-09-07 20:15:00,1066,Los Angeles
+503,106,Keyboard,Electronics,58.02,7,2023-09-08 08:54:00,1989,Chicago
+504,104,Headphones,Appliances,103.72,8,2023-09-08 11:42:00,1056,Houston
+505,101,Monitor,Accessories,213.68,1,2023-09-08 15:25:00,1204,Houston
+506,109,Smartphone,Appliances,343.45,3,2023-09-08 23:14:00,1774,Los Angeles
+507,107,Keyboard,Accessories,44.32,1,2023-09-09 03:52:00,1391,New York
+508,107,Tablet,Appliances,360.35,8,2023-09-09 07:02:00,1964,San Diego
+509,101,Tablet,Accessories,680.92,2,2023-09-09 15:53:00,1075,San Diego
+510,109,Monitor,Appliances,335.89,7,2023-09-10 02:14:00,1411,Phoenix
+511,108,Monitor,Accessories,414.95,6,2023-09-10 22:28:00,1849,Houston
+512,105,Keyboard,Appliances,23.63,1,2023-09-11 02:06:00,1682,San Diego
+513,104,Printer,Accessories,131.96,6,2023-09-12 00:09:00,1902,Phoenix
+514,101,Monitor,Accessories,425.81,9,2023-09-12 22:24:00,1262,Philadelphia
+515,109,Printer,Appliances,287.06,3,2023-09-13 02:20:00,1597,Philadelphia
+516,108,Headphones,Electronics,97.75,7,2023-09-13 05:08:00,1358,Los Angeles
+517,102,Tablet,Accessories,402.4,4,2023-09-13 18:08:00,1221,San Antonio
+518,104,Keyboard,Accessories,63.09,1,2023-09-13 21:21:00,1751,Los Angeles
+519,104,Monitor,Electronics,437.44,7,2023-09-14 01:23:00,1553,San Antonio
+520,107,Headphones,Accessories,65.1,1,2023-09-14 21:09:00,1175,San Antonio
+521,103,Keyboard,Appliances,67.74,4,2023-09-15 19:52:00,1791,San Antonio
+522,108,Smartphone,Electronics,801.93,9,2023-09-16 09:03:00,1392,New York
+523,107,Laptop,Accessories,1973.47,5,2023-09-16 16:38:00,1628,San Antonio
+524,104,Printer,Appliances,342.15,7,2023-09-17 11:57:00,1853,Chicago
+525,109,Laptop,Appliances,1131.47,7,2023-09-17 15:10:00,1163,Phoenix
+526,106,Camera,Electronics,1151.5,3,2023-09-18 14:56:00,1064,San Diego
+527,103,Headphones,Electronics,240.82,8,2023-09-18 21:28:00,1790,Houston
+528,107,Printer,Electronics,318.92,1,2023-09-19 07:29:00,1037,Chicago
+529,106,Headphones,Appliances,255.04,4,2023-09-20 01:15:00,1882,Philadelphia
+530,108,Mouse,Accessories,46.15,4,2023-09-20 02:48:00,1181,San Diego
+531,105,Printer,Appliances,129.53,2,2023-09-20 23:27:00,1279,Philadelphia
+532,106,Tablet,Appliances,252.38,6,2023-09-21 05:16:00,1416,Phoenix
+533,101,Headphones,Electronics,249.1,1,2023-09-21 13:49:00,1768,San Diego
+534,108,Tablet,Accessories,326.19,3,2023-09-22 12:28:00,1266,Phoenix
+535,101,Mouse,Appliances,12.34,9,2023-09-23 12:11:00,1009,San Antonio
+536,103,Monitor,Electronics,260.49,6,2023-09-24 03:35:00,1933,San Diego
+537,102,Headphones,Electronics,254.97,2,2023-09-24 23:23:00,1568,Chicago
+538,106,Laptop,Accessories,951.88,9,2023-09-25 01:09:00,1488,Chicago
+539,108,Headphones,Accessories,217.96,2,2023-09-25 22:05:00,1208,New York
+540,108,Monitor,Electronics,101.45,7,2023-09-26 14:37:00,1331,Houston
+541,107,Keyboard,Accessories,28.78,1,2023-09-27 02:34:00,1151,Houston
+542,107,Laptop,Accessories,1221.02,5,2023-09-27 22:35:00,1123,Houston
+543,108,Laptop,Appliances,900.32,7,2023-09-28 20:33:00,1098,San Antonio
+544,105,Mouse,Accessories,43.84,3,2023-09-29 18:02:00,1276,San Diego
+545,103,Laptop,Electronics,1836.88,4,2023-09-30 07:10:00,1415,Philadelphia
+546,102,Smartphone,Accessories,828.9,5,2023-10-01 04:44:00,1155,Philadelphia
+547,103,Tablet,Appliances,321.24,3,2023-10-02 01:20:00,1382,Chicago
+548,103,Printer,Accessories,256.97,6,2023-10-02 21:07:00,1879,New York
+549,107,Smartphone,Appliances,428.93,3,2023-10-03 10:50:00,1589,Los Angeles
+550,101,Keyboard,Accessories,42.5,8,2023-10-04 02:07:00,1834,New York
+551,107,Headphones,Accessories,179.0,7,2023-10-04 20:04:00,1753,San Diego
+552,106,Camera,Electronics,1182.02,1,2023-10-05 17:01:00,1930,Philadelphia
+553,102,Camera,Electronics,413.59,2,2023-10-06 07:15:00,1732,San Antonio
+554,101,Smartphone,Accessories,507.69,4,2023-10-06 18:38:00,1374,Chicago
+555,109,Laptop,Accessories,1911.95,5,2023-10-07 11:41:00,1288,New York
+556,102,Headphones,Appliances,157.28,4,2023-10-08 03:32:00,1477,Chicago
+557,104,Monitor,Appliances,475.55,4,2023-10-08 04:16:00,1110,Phoenix
+558,109,Headphones,Electronics,297.85,9,2023-10-08 14:19:00,1275,Phoenix
+559,109,Printer,Accessories,258.0,4,2023-10-09 00:52:00,1882,Los Angeles
+560,101,Mouse,Accessories,21.52,4,2023-10-09 02:24:00,1033,Philadelphia
+561,102,Headphones,Appliances,247.69,4,2023-10-09 15:03:00,1557,San Antonio
+562,102,Monitor,Accessories,163.72,2,2023-10-10 03:14:00,1144,Phoenix
+563,102,Laptop,Accessories,1102.46,8,2023-10-10 19:08:00,1271,Los Angeles
+564,108,Keyboard,Accessories,82.79,4,2023-10-11 00:45:00,1508,Houston
+565,108,Mouse,Appliances,27.35,5,2023-10-11 22:43:00,1099,Chicago
+566,108,Mouse,Appliances,18.06,8,2023-10-12 10:23:00,1604,San Antonio
+567,104,Laptop,Appliances,1581.35,4,2023-10-13 01:48:00,1084,Houston
+568,108,Printer,Accessories,319.83,5,2023-10-13 13:08:00,1082,Houston
+569,107,Camera,Appliances,450.09,5,2023-10-14 05:15:00,1801,San Diego
+570,108,Keyboard,Electronics,42.16,6,2023-10-14 09:39:00,1418,Los Angeles
+571,101,Smartphone,Electronics,454.89,7,2023-10-14 11:24:00,1307,San Diego
+572,103,Smartphone,Appliances,565.9,3,2023-10-14 15:08:00,1380,Chicago
+573,106,Keyboard,Appliances,81.08,3,2023-10-15 07:26:00,1995,Los Angeles
+574,101,Printer,Accessories,314.11,9,2023-10-15 09:21:00,1278,New York
+575,104,Printer,Appliances,298.76,1,2023-10-16 00:12:00,1185,Houston
+576,109,Monitor,Appliances,102.51,8,2023-10-16 21:11:00,1359,Chicago
+577,107,Tablet,Electronics,271.07,3,2023-10-17 18:49:00,1663,Houston
+578,101,Headphones,Electronics,105.82,5,2023-10-18 15:43:00,1157,New York
+579,106,Printer,Electronics,181.59,3,2023-10-19 03:52:00,1515,Philadelphia
+580,106,Smartphone,Electronics,402.5,1,2023-10-19 04:26:00,1385,New York
+581,102,Laptop,Appliances,1292.38,5,2023-10-20 03:58:00,1823,Philadelphia
+582,106,Smartphone,Electronics,352.63,8,2023-10-20 18:53:00,1956,Chicago
+583,102,Tablet,Accessories,575.01,5,2023-10-21 02:35:00,1523,Chicago
+584,108,Keyboard,Accessories,83.02,4,2023-10-21 10:04:00,1926,San Antonio
+585,107,Tablet,Appliances,487.13,9,2023-10-21 23:53:00,1062,New York
+586,106,Headphones,Accessories,72.43,1,2023-10-22 20:31:00,1927,San Diego
+587,106,Monitor,Electronics,456.03,5,2023-10-23 14:21:00,1159,Houston
+588,109,Printer,Electronics,389.69,1,2023-10-23 21:06:00,1378,Phoenix
+589,109,Monitor,Accessories,180.95,6,2023-10-24 02:39:00,1561,Houston
+590,102,Tablet,Appliances,552.32,9,2023-10-24 06:39:00,1744,Phoenix
+591,103,Laptop,Electronics,1810.33,2,2023-10-25 03:57:00,1871,San Diego
+592,107,Headphones,Electronics,184.96,4,2023-10-25 07:45:00,1711,Los Angeles
+593,109,Laptop,Accessories,1187.99,8,2023-10-25 19:58:00,1885,Chicago
+594,106,Laptop,Appliances,1374.27,3,2023-10-26 10:49:00,1642,San Diego
+595,101,Laptop,Appliances,1414.72,7,2023-10-26 13:35:00,1187,New York
+596,107,Keyboard,Accessories,52.05,7,2023-10-26 23:20:00,1904,Los Angeles
+597,101,Printer,Electronics,378.95,2,2023-10-27 11:37:00,1238,San Diego
+598,105,Printer,Accessories,323.16,4,2023-10-27 21:35:00,1446,Houston
+599,109,Laptop,Accessories,1089.56,1,2023-10-28 07:28:00,1657,Phoenix
+600,109,Mouse,Accessories,33.42,8,2023-10-28 19:35:00,1949,Philadelphia
+601,101,Headphones,Electronics,222.17,9,2023-10-29 19:09:00,1841,Chicago
+602,106,Mouse,Electronics,15.61,1,2023-10-30 10:34:00,1966,Phoenix
+603,103,Monitor,Accessories,243.37,7,2023-10-31 10:29:00,1970,Houston
+604,109,Headphones,Appliances,276.39,1,2023-10-31 21:18:00,1161,San Antonio
+605,103,Tablet,Accessories,483.59,1,2023-11-01 04:45:00,1265,Houston
+606,102,Monitor,Electronics,186.8,9,2023-11-02 04:32:00,1116,New York
+607,108,Monitor,Appliances,149.11,6,2023-11-02 06:09:00,1259,Los Angeles
+608,103,Monitor,Appliances,307.29,1,2023-11-02 12:28:00,1973,Chicago
+609,105,Mouse,Electronics,31.91,7,2023-11-02 23:38:00,1069,New York
+610,106,Printer,Electronics,200.32,3,2023-11-03 19:48:00,1881,Phoenix
+611,101,Headphones,Accessories,207.6,4,2023-11-04 16:56:00,1393,San Antonio
+612,107,Tablet,Electronics,234.34,4,2023-11-05 03:27:00,1388,Los Angeles
+613,107,Camera,Appliances,474.17,8,2023-11-05 15:15:00,1790,San Diego
+614,105,Camera,Accessories,955.53,1,2023-11-05 23:38:00,1654,Chicago
+615,109,Laptop,Accessories,874.18,8,2023-11-06 04:26:00,1109,Phoenix
+616,102,Keyboard,Appliances,90.47,9,2023-11-06 10:35:00,1053,Chicago
+617,105,Keyboard,Electronics,31.37,7,2023-11-06 11:40:00,1760,Chicago
+618,102,Camera,Accessories,1108.7,1,2023-11-06 14:22:00,1173,Philadelphia
+619,102,Camera,Appliances,769.44,7,2023-11-07 00:19:00,1069,Philadelphia
+620,109,Smartphone,Appliances,579.85,6,2023-11-07 15:46:00,1659,San Diego
+621,107,Tablet,Appliances,582.44,5,2023-11-08 01:17:00,1929,San Antonio
+622,104,Smartphone,Electronics,649.62,5,2023-11-08 17:31:00,1428,Los Angeles
+623,108,Laptop,Electronics,1670.79,1,2023-11-09 04:33:00,1818,Philadelphia
+624,104,Smartphone,Electronics,653.63,6,2023-11-09 12:34:00,1617,Phoenix
+625,101,Mouse,Electronics,33.72,4,2023-11-09 17:03:00,1621,Philadelphia
+626,103,Laptop,Appliances,1712.86,1,2023-11-10 05:19:00,1522,San Antonio
+627,101,Mouse,Accessories,34.29,8,2023-11-10 14:46:00,1681,San Antonio
+628,102,Laptop,Appliances,1538.74,8,2023-11-11 11:00:00,1349,New York
+629,102,Smartphone,Accessories,852.45,4,2023-11-11 17:46:00,1534,New York
+630,107,Camera,Accessories,1438.9,7,2023-11-12 06:31:00,1664,New York
+631,104,Mouse,Accessories,25.07,3,2023-11-13 04:47:00,1292,San Antonio
+632,109,Headphones,Electronics,194.28,8,2023-11-13 19:13:00,1059,Chicago
+633,102,Laptop,Appliances,903.53,7,2023-11-14 13:51:00,1839,Houston
+634,109,Keyboard,Accessories,48.7,5,2023-11-14 20:21:00,1749,Los Angeles
+635,106,Printer,Appliances,223.61,5,2023-11-15 05:28:00,1149,New York
+636,108,Headphones,Electronics,258.81,9,2023-11-16 05:23:00,1616,Los Angeles
+637,107,Headphones,Accessories,178.35,6,2023-11-17 01:59:00,1152,Philadelphia
+638,108,Monitor,Electronics,392.43,6,2023-11-18 01:12:00,1367,San Diego
+639,109,Monitor,Electronics,107.6,2,2023-11-18 13:34:00,1698,Chicago
+640,108,Monitor,Appliances,285.8,5,2023-11-19 09:26:00,1242,Los Angeles
+641,106,Tablet,Accessories,650.66,4,2023-11-20 02:44:00,1764,New York
+642,108,Camera,Electronics,569.18,3,2023-11-20 12:30:00,1430,New York
+643,108,Keyboard,Appliances,22.52,9,2023-11-21 03:04:00,1584,San Antonio
+644,102,Printer,Accessories,230.02,7,2023-11-21 23:35:00,1008,Chicago
+645,102,Mouse,Accessories,38.18,4,2023-11-22 00:18:00,1330,Chicago
+646,101,Headphones,Electronics,163.62,9,2023-11-22 14:58:00,1943,Phoenix
+647,102,Tablet,Electronics,429.99,9,2023-11-23 06:09:00,1560,Chicago
+648,107,Mouse,Electronics,36.79,7,2023-11-23 16:16:00,1635,Houston
+649,103,Tablet,Electronics,327.19,5,2023-11-24 15:55:00,1047,Houston
+650,104,Smartphone,Accessories,826.32,9,2023-11-24 19:53:00,1044,New York
+651,104,Tablet,Electronics,276.56,7,2023-11-25 07:52:00,1035,San Diego
+652,104,Smartphone,Electronics,577.03,9,2023-11-25 20:14:00,1449,Philadelphia
+653,102,Smartphone,Electronics,759.21,3,2023-11-26 02:58:00,1975,Chicago
+654,106,Printer,Accessories,348.51,9,2023-11-26 06:32:00,1832,Houston
+655,101,Tablet,Appliances,595.77,1,2023-11-26 20:38:00,1715,San Antonio
+656,105,Camera,Appliances,1166.02,5,2023-11-27 19:56:00,1052,Houston
+657,102,Smartphone,Accessories,551.37,2,2023-11-27 22:08:00,1056,San Antonio
+658,109,Printer,Appliances,136.69,1,2023-11-27 22:17:00,1170,Phoenix
+659,102,Tablet,Accessories,308.42,3,2023-11-28 00:50:00,1027,Philadelphia
+660,106,Headphones,Electronics,266.21,7,2023-11-28 08:01:00,1893,San Antonio
+661,104,Printer,Appliances,357.2,3,2023-11-28 16:04:00,1767,Philadelphia
+662,106,Headphones,Accessories,287.89,9,2023-11-28 21:09:00,1517,Chicago
+663,102,Smartphone,Accessories,353.19,3,2023-11-29 01:53:00,1443,Phoenix
+664,102,Mouse,Electronics,31.47,6,2023-11-29 09:45:00,1878,Philadelphia
+665,107,Keyboard,Accessories,71.89,2,2023-11-30 02:18:00,1448,San Diego
+666,103,Smartphone,Appliances,797.46,8,2023-11-30 05:28:00,1454,Philadelphia
+667,103,Monitor,Electronics,357.55,5,2023-11-30 14:00:00,1046,San Antonio
+668,107,Monitor,Accessories,408.0,2,2023-11-30 19:43:00,1791,Los Angeles
+669,108,Camera,Electronics,731.37,7,2023-12-01 07:38:00,1091,Phoenix
+670,107,Printer,Accessories,153.83,3,2023-12-01 18:58:00,1326,Philadelphia
+671,103,Keyboard,Appliances,36.37,5,2023-12-02 12:36:00,1066,Los Angeles
+672,103,Headphones,Appliances,52.99,9,2023-12-02 20:27:00,1801,Los Angeles
+673,107,Laptop,Electronics,1220.39,1,2023-12-03 20:05:00,1717,San Diego
+674,103,Monitor,Accessories,136.7,2,2023-12-04 08:26:00,1496,Philadelphia
+675,102,Keyboard,Electronics,45.72,5,2023-12-04 16:59:00,1320,San Antonio
+676,107,Camera,Electronics,1053.85,4,2023-12-05 15:25:00,1827,Chicago
+677,103,Tablet,Appliances,647.24,1,2023-12-06 10:24:00,1573,Los Angeles
+678,105,Keyboard,Electronics,87.17,7,2023-12-07 07:02:00,1593,Los Angeles
+679,107,Tablet,Accessories,326.34,9,2023-12-07 09:27:00,1290,San Diego
+680,102,Printer,Appliances,140.22,1,2023-12-07 18:46:00,1801,Phoenix
+681,108,Tablet,Accessories,296.54,8,2023-12-08 07:58:00,1788,Chicago
+682,102,Printer,Electronics,391.3,9,2023-12-09 04:00:00,1031,San Diego
+683,104,Smartphone,Appliances,684.63,2,2023-12-09 10:00:00,1930,San Antonio
+684,104,Printer,Accessories,154.75,1,2023-12-09 14:45:00,1737,Chicago
+685,108,Headphones,Accessories,260.19,6,2023-12-10 11:54:00,1786,Los Angeles
+686,101,Keyboard,Electronics,51.62,7,2023-12-11 00:39:00,1942,San Antonio
+687,109,Mouse,Accessories,45.97,2,2023-12-11 21:09:00,1356,Phoenix
+688,106,Tablet,Electronics,330.34,5,2023-12-12 06:53:00,1286,Phoenix
+689,104,Keyboard,Electronics,51.46,5,2023-12-13 05:39:00,1201,Phoenix
+690,106,Keyboard,Electronics,60.4,7,2023-12-13 17:46:00,1795,San Diego
+691,106,Tablet,Electronics,646.31,1,2023-12-14 16:50:00,1017,Phoenix
+692,109,Camera,Appliances,1342.51,8,2023-12-15 12:15:00,1270,New York
+693,104,Mouse,Accessories,32.97,5,2023-12-16 04:15:00,1605,San Antonio
+694,108,Tablet,Accessories,310.89,3,2023-12-17 01:01:00,1153,San Diego
+695,101,Laptop,Appliances,1284.03,9,2023-12-18 00:34:00,1308,Philadelphia
+696,106,Laptop,Electronics,1970.76,3,2023-12-18 23:08:00,1853,San Diego
+697,105,Smartphone,Electronics,725.44,7,2023-12-19 11:31:00,1473,San Diego
+698,103,Keyboard,Electronics,82.49,7,2023-12-20 11:08:00,1539,Los Angeles
+699,104,Printer,Electronics,234.96,8,2023-12-20 22:02:00,1652,Los Angeles
+700,108,Laptop,Appliances,1438.41,8,2023-12-21 04:00:00,1981,Los Angeles
+701,102,Laptop,Accessories,1314.74,4,2023-12-22 03:38:00,1769,Chicago
+702,108,Monitor,Electronics,381.17,1,2023-12-22 13:25:00,1901,San Antonio
+703,107,Mouse,Electronics,44.06,4,2023-12-22 14:05:00,1355,Chicago
+704,101,Headphones,Electronics,176.84,6,2023-12-23 05:07:00,1630,Phoenix
+705,102,Laptop,Accessories,1377.04,6,2023-12-23 09:40:00,1287,Philadelphia
+706,107,Keyboard,Accessories,47.22,6,2023-12-24 03:54:00,1073,San Antonio
+707,103,Headphones,Appliances,94.27,7,2023-12-24 17:43:00,1642,Chicago
+708,102,Camera,Accessories,1427.1,1,2023-12-25 04:06:00,1408,Houston
+709,101,Printer,Accessories,194.82,1,2023-12-25 11:44:00,1234,San Antonio
+710,107,Smartphone,Electronics,860.48,7,2023-12-25 15:38:00,1656,Los Angeles
+711,103,Headphones,Accessories,228.84,4,2023-12-25 18:55:00,1014,Los Angeles
+712,106,Camera,Electronics,1249.1,6,2023-12-26 03:51:00,1148,New York
+713,108,Headphones,Appliances,284.19,6,2023-12-26 19:29:00,1992,New York
+714,106,Headphones,Electronics,205.84,9,2023-12-26 21:56:00,1671,Houston
+715,107,Headphones,Appliances,274.49,2,2023-12-27 07:30:00,1093,New York
+716,106,Tablet,Accessories,283.85,4,2023-12-28 01:41:00,1736,Philadelphia
+717,107,Printer,Appliances,288.01,4,2023-12-28 02:11:00,1240,Phoenix
+718,105,Laptop,Electronics,1726.73,7,2023-12-28 03:58:00,1417,Phoenix
+719,109,Headphones,Accessories,117.91,1,2023-12-28 10:28:00,1381,San Antonio
+720,103,Headphones,Accessories,235.19,5,2023-12-29 01:07:00,1660,Los Angeles
+721,106,Tablet,Electronics,589.24,4,2023-12-29 07:53:00,1944,San Diego
+722,109,Keyboard,Accessories,86.5,2,2023-12-30 02:58:00,1661,Phoenix
+723,101,Camera,Electronics,675.46,5,2023-12-30 20:13:00,1534,New York
+724,105,Mouse,Appliances,37.26,9,2023-12-31 05:57:00,1052,Houston
+725,104,Headphones,Appliances,126.06,8,2023-12-31 11:44:00,1151,San Diego
+726,109,Tablet,Accessories,569.52,9,2024-01-01 09:01:00,1554,Philadelphia
+727,101,Printer,Electronics,238.89,7,2024-01-01 22:18:00,1824,San Diego
+728,104,Mouse,Electronics,33.9,7,2024-01-02 00:17:00,1964,Phoenix
+729,101,Keyboard,Appliances,53.27,2,2024-01-02 08:57:00,1981,Los Angeles
+730,103,Monitor,Electronics,164.79,3,2024-01-03 05:36:00,1506,Los Angeles
+731,104,Keyboard,Accessories,34.24,8,2024-01-03 17:49:00,1782,San Diego
+732,101,Monitor,Accessories,131.03,2,2024-01-03 19:09:00,1112,Philadelphia
+733,105,Tablet,Appliances,509.04,7,2024-01-04 02:08:00,1875,New York
+734,106,Printer,Electronics,354.59,6,2024-01-04 11:52:00,1009,Phoenix
+735,101,Mouse,Accessories,10.83,4,2024-01-04 23:44:00,1379,New York
+736,104,Monitor,Accessories,126.5,4,2024-01-05 21:37:00,1139,Los Angeles
+737,104,Headphones,Accessories,164.37,3,2024-01-06 01:31:00,1697,Houston
+738,101,Laptop,Electronics,1685.26,6,2024-01-06 05:52:00,1764,Phoenix
+739,102,Laptop,Appliances,989.25,3,2024-01-06 21:25:00,1748,San Antonio
+740,105,Headphones,Appliances,117.91,9,2024-01-07 08:22:00,1998,Houston
+741,102,Printer,Accessories,169.6,4,2024-01-08 01:48:00,1907,Philadelphia
+742,103,Smartphone,Appliances,579.34,4,2024-01-08 03:06:00,1194,Phoenix
+743,109,Keyboard,Accessories,38.0,2,2024-01-08 15:28:00,1570,Los Angeles
+744,105,Monitor,Accessories,241.04,2,2024-01-09 02:40:00,1985,Phoenix
+745,101,Laptop,Electronics,1674.25,7,2024-01-09 19:58:00,1135,Los Angeles
+746,105,Headphones,Accessories,202.75,5,2024-01-10 15:30:00,1341,Chicago
+747,103,Mouse,Accessories,13.25,3,2024-01-10 16:00:00,1394,Los Angeles
+748,101,Mouse,Electronics,35.51,6,2024-01-10 23:18:00,1198,Los Angeles
+749,103,Monitor,Electronics,290.83,6,2024-01-11 00:21:00,1397,Philadelphia
+750,106,Smartphone,Appliances,954.2,1,2024-01-11 19:40:00,1551,Phoenix
+751,105,Camera,Electronics,647.17,3,2024-01-11 22:17:00,1207,Houston
+752,101,Camera,Accessories,1171.4,5,2024-01-12 07:46:00,1821,Los Angeles
+753,102,Tablet,Electronics,565.43,7,2024-01-12 23:29:00,1778,San Diego
+754,105,Printer,Electronics,166.45,4,2024-01-13 12:26:00,1839,Phoenix
+755,109,Printer,Appliances,370.97,8,2024-01-13 16:40:00,1474,Los Angeles
+756,105,Keyboard,Electronics,59.29,3,2024-01-14 09:27:00,1056,New York
+757,105,Keyboard,Accessories,74.31,6,2024-01-15 05:38:00,1010,San Diego
+758,101,Camera,Accessories,475.03,6,2024-01-15 20:11:00,1350,New York
+759,105,Monitor,Accessories,203.12,9,2024-01-16 19:34:00,1654,New York
+760,108,Laptop,Electronics,1503.33,4,2024-01-17 18:05:00,1976,San Diego
+761,109,Laptop,Electronics,1182.83,7,2024-01-17 21:24:00,1060,New York
+762,103,Headphones,Accessories,174.92,1,2024-01-18 12:05:00,1402,Houston
+763,104,Monitor,Electronics,249.6,1,2024-01-19 08:00:00,1536,San Diego
+764,107,Laptop,Appliances,1568.66,2,2024-01-20 06:19:00,1924,Philadelphia
+765,107,Smartphone,Appliances,641.0,4,2024-01-20 06:25:00,1142,Los Angeles
+766,101,Printer,Appliances,101.38,6,2024-01-21 03:45:00,1070,New York
+767,106,Smartphone,Appliances,754.78,4,2024-01-21 17:26:00,1616,Phoenix
+768,109,Laptop,Accessories,1306.55,6,2024-01-22 15:50:00,1842,New York
+769,105,Headphones,Electronics,135.42,2,2024-01-22 19:58:00,1281,Chicago
+770,108,Keyboard,Appliances,27.53,9,2024-01-22 20:02:00,1359,Chicago
+771,109,Monitor,Accessories,188.15,3,2024-01-23 04:35:00,1001,Philadelphia
+772,103,Monitor,Appliances,189.51,7,2024-01-23 18:33:00,1171,Houston
+773,101,Laptop,Electronics,1922.44,1,2024-01-24 02:59:00,1126,San Antonio
+774,102,Tablet,Appliances,416.26,8,2024-01-24 03:30:00,1248,Chicago
+775,105,Laptop,Appliances,850.48,4,2024-01-25 01:09:00,1059,San Diego
+776,107,Keyboard,Appliances,31.11,5,2024-01-25 12:58:00,1914,Phoenix
+777,106,Keyboard,Appliances,26.32,7,2024-01-26 03:44:00,1801,New York
+778,104,Headphones,Electronics,197.22,3,2024-01-27 02:13:00,1403,Chicago
+779,109,Camera,Accessories,523.95,9,2024-01-27 22:14:00,1785,Chicago
+780,104,Keyboard,Appliances,59.88,9,2024-01-28 20:05:00,1516,Houston
+781,103,Keyboard,Accessories,49.6,8,2024-01-29 08:33:00,1934,San Diego
+782,105,Printer,Electronics,341.16,1,2024-01-29 09:52:00,1847,Chicago
+783,104,Smartphone,Electronics,524.34,2,2024-01-29 13:55:00,1687,San Diego
+784,102,Printer,Appliances,237.48,2,2024-01-29 22:16:00,1442,New York
+785,103,Laptop,Accessories,1665.54,3,2024-01-30 01:41:00,1775,Philadelphia
+786,107,Keyboard,Appliances,54.67,2,2024-01-31 01:08:00,1654,San Antonio
+787,102,Mouse,Electronics,41.73,1,2024-01-31 13:11:00,1078,Philadelphia
+788,101,Laptop,Appliances,1594.02,5,2024-01-31 18:44:00,1771,San Diego
+789,102,Headphones,Appliances,152.63,6,2024-02-01 04:47:00,1951,Philadelphia
+790,108,Headphones,Accessories,176.0,7,2024-02-01 07:33:00,1270,San Antonio
+791,108,Laptop,Electronics,1960.64,7,2024-02-01 10:14:00,1361,San Diego
+792,102,Monitor,Appliances,364.64,2,2024-02-01 10:20:00,1140,Los Angeles
+793,106,Camera,Appliances,1385.99,7,2024-02-01 13:45:00,1846,New York
+794,107,Smartphone,Appliances,425.13,2,2024-02-01 22:37:00,1243,Chicago
+795,101,Camera,Accessories,879.88,2,2024-02-02 17:21:00,1761,Chicago
+796,107,Headphones,Electronics,277.17,6,2024-02-02 18:06:00,1514,San Antonio
+797,108,Headphones,Appliances,130.65,6,2024-02-03 01:43:00,1396,Chicago
+798,109,Laptop,Appliances,1961.2,8,2024-02-03 05:30:00,1647,Houston
+799,108,Headphones,Appliances,74.27,5,2024-02-04 03:49:00,1221,Phoenix
+800,103,Monitor,Electronics,461.07,5,2024-02-04 04:41:00,1531,New York
+801,108,Camera,Accessories,834.25,1,2024-02-05 00:11:00,1894,Philadelphia
+802,103,Headphones,Accessories,68.44,4,2024-02-05 21:56:00,1712,Chicago
+803,106,Tablet,Appliances,639.76,1,2024-02-06 17:03:00,1459,San Antonio
+804,104,Mouse,Appliances,20.08,5,2024-02-07 00:54:00,1601,Los Angeles
+805,107,Tablet,Accessories,211.13,8,2024-02-07 15:51:00,1806,Houston
+806,108,Laptop,Accessories,962.97,1,2024-02-08 13:52:00,1370,Phoenix
+807,106,Mouse,Accessories,36.36,3,2024-02-09 00:06:00,1495,Chicago
+808,104,Keyboard,Appliances,98.22,1,2024-02-09 08:38:00,1566,Philadelphia
+809,108,Tablet,Appliances,255.73,6,2024-02-09 21:44:00,1025,New York
+810,107,Monitor,Accessories,284.78,1,2024-02-10 18:10:00,1710,Los Angeles
+811,108,Smartphone,Accessories,426.45,3,2024-02-11 01:05:00,1242,Philadelphia
+812,107,Monitor,Electronics,398.01,5,2024-02-11 11:19:00,1141,Houston
+813,103,Monitor,Appliances,147.22,5,2024-02-11 19:59:00,1293,New York
+814,103,Tablet,Electronics,319.92,2,2024-02-12 07:13:00,1098,San Antonio
+815,109,Mouse,Accessories,17.86,3,2024-02-13 01:30:00,1148,New York
+816,107,Laptop,Appliances,1463.02,9,2024-02-13 07:15:00,1054,Houston
+817,101,Headphones,Appliances,268.3,1,2024-02-14 00:46:00,1084,San Antonio
+818,103,Tablet,Electronics,455.55,1,2024-02-14 20:39:00,1721,New York
+819,101,Tablet,Electronics,229.12,2,2024-02-15 09:34:00,1383,San Diego
+820,106,Tablet,Electronics,481.69,8,2024-02-15 19:19:00,1851,San Antonio
+821,102,Printer,Electronics,339.26,6,2024-02-16 15:52:00,1873,San Antonio
+822,107,Camera,Appliances,458.59,4,2024-02-17 06:32:00,1379,Los Angeles
+823,108,Smartphone,Accessories,350.9,7,2024-02-17 21:30:00,1273,Los Angeles
+824,106,Laptop,Accessories,1025.37,6,2024-02-18 11:38:00,1861,San Diego
+825,105,Keyboard,Accessories,79.69,9,2024-02-18 23:43:00,1917,San Antonio
+826,104,Camera,Electronics,1010.02,6,2024-02-19 10:40:00,1949,New York
+827,109,Tablet,Accessories,470.3,2,2024-02-19 20:51:00,1270,Chicago
+828,108,Mouse,Electronics,19.98,3,2024-02-20 19:05:00,1094,San Diego
+829,105,Tablet,Electronics,366.12,9,2024-02-21 12:09:00,1957,New York
+830,101,Mouse,Accessories,48.64,7,2024-02-22 03:56:00,1619,Chicago
+831,108,Monitor,Accessories,196.25,6,2024-02-22 06:56:00,1817,New York
+832,108,Printer,Accessories,370.49,5,2024-02-22 17:43:00,1840,Philadelphia
+833,107,Laptop,Appliances,1496.64,3,2024-02-23 01:01:00,1428,Phoenix
+834,107,Laptop,Electronics,947.96,4,2024-02-23 07:36:00,1260,Los Angeles
+835,108,Keyboard,Appliances,57.38,1,2024-02-23 17:30:00,1292,New York
+836,101,Headphones,Accessories,287.14,5,2024-02-23 18:27:00,1840,Los Angeles
+837,103,Keyboard,Appliances,53.49,7,2024-02-24 14:25:00,1962,Houston
+838,104,Monitor,Appliances,445.35,2,2024-02-24 19:51:00,1130,Phoenix
+839,106,Camera,Accessories,607.71,8,2024-02-25 01:13:00,1235,Chicago
+840,109,Keyboard,Accessories,65.67,6,2024-02-25 04:16:00,1703,San Diego
+841,104,Laptop,Electronics,1812.62,3,2024-02-25 08:11:00,1465,Houston
+842,106,Printer,Electronics,376.21,2,2024-02-25 18:30:00,1843,Phoenix
+843,109,Monitor,Appliances,294.33,8,2024-02-26 14:40:00,1601,Houston
+844,109,Keyboard,Accessories,71.18,4,2024-02-26 19:06:00,1116,Los Angeles
+845,106,Mouse,Electronics,10.12,7,2024-02-27 11:55:00,1326,Philadelphia
+846,105,Printer,Electronics,175.97,7,2024-02-28 01:57:00,1770,Phoenix
+847,103,Smartphone,Appliances,495.1,9,2024-02-28 07:26:00,1398,Houston
+848,105,Laptop,Appliances,912.19,8,2024-02-29 06:35:00,1174,Chicago
+849,103,Tablet,Appliances,339.85,8,2024-02-29 17:58:00,1231,Phoenix
+850,105,Laptop,Accessories,1185.35,7,2024-02-29 18:22:00,1651,Phoenix
+851,101,Monitor,Electronics,487.51,5,2024-03-01 15:47:00,1829,Houston
+852,106,Mouse,Electronics,36.74,9,2024-03-02 14:46:00,1104,Philadelphia
+853,107,Keyboard,Electronics,54.08,7,2024-03-02 18:02:00,1759,San Diego
+854,102,Monitor,Appliances,495.22,3,2024-03-03 04:13:00,1022,San Antonio
+855,103,Printer,Accessories,145.97,6,2024-03-04 02:50:00,1874,San Antonio
+856,109,Mouse,Appliances,29.04,3,2024-03-04 13:03:00,1493,San Antonio
+857,108,Tablet,Appliances,523.53,6,2024-03-04 23:35:00,1672,San Antonio
+858,104,Headphones,Accessories,63.9,8,2024-03-05 04:56:00,1894,New York
+859,108,Keyboard,Accessories,77.36,9,2024-03-06 04:17:00,1865,Chicago
+860,108,Laptop,Appliances,919.84,2,2024-03-06 07:40:00,1656,Chicago
+861,106,Mouse,Accessories,15.61,6,2024-03-07 02:14:00,1532,San Antonio
+862,101,Keyboard,Appliances,32.78,3,2024-03-07 05:11:00,1298,Houston
+863,102,Camera,Electronics,1414.67,7,2024-03-07 15:38:00,1412,Philadelphia
+864,104,Monitor,Accessories,373.29,4,2024-03-07 16:10:00,1098,Los Angeles
+865,104,Laptop,Electronics,1586.51,5,2024-03-08 07:56:00,1723,Los Angeles
+866,102,Smartphone,Accessories,688.85,6,2024-03-08 20:03:00,1888,San Antonio
+867,109,Camera,Appliances,651.37,8,2024-03-09 11:57:00,1371,San Diego
+868,102,Camera,Appliances,1045.07,2,2024-03-10 01:37:00,1173,New York
+869,106,Keyboard,Appliances,52.81,4,2024-03-10 14:48:00,1439,San Diego
+870,105,Mouse,Appliances,15.82,4,2024-03-10 18:51:00,1772,New York
+871,104,Smartphone,Appliances,782.72,6,2024-03-10 20:01:00,1733,Houston
+872,106,Headphones,Appliances,82.4,4,2024-03-11 12:56:00,1469,Philadelphia
+873,104,Mouse,Accessories,17.63,5,2024-03-12 07:11:00,1910,Los Angeles
+874,109,Headphones,Accessories,254.42,5,2024-03-12 09:49:00,1064,Chicago
+875,107,Tablet,Electronics,530.06,8,2024-03-12 18:58:00,1941,Philadelphia
+876,103,Mouse,Accessories,35.24,4,2024-03-13 00:24:00,1659,Los Angeles
+877,104,Keyboard,Accessories,53.46,6,2024-03-13 18:03:00,1788,Philadelphia
+878,101,Headphones,Electronics,149.07,7,2024-03-14 01:43:00,1840,Houston
+879,106,Laptop,Electronics,1628.32,8,2024-03-14 08:39:00,1388,Los Angeles
+880,102,Headphones,Appliances,235.0,9,2024-03-14 18:10:00,1726,Phoenix
+881,104,Keyboard,Electronics,60.82,8,2024-03-15 08:56:00,1662,San Antonio
+882,105,Laptop,Electronics,1963.12,4,2024-03-15 17:27:00,1083,Houston
+883,108,Camera,Accessories,1446.84,4,2024-03-15 23:35:00,1971,Phoenix
+884,103,Printer,Appliances,223.73,5,2024-03-16 14:47:00,1378,San Diego
+885,106,Mouse,Electronics,42.82,3,2024-03-17 05:30:00,1895,Philadelphia
+886,101,Smartphone,Appliances,680.29,2,2024-03-17 08:57:00,1595,Houston
+887,109,Keyboard,Appliances,60.94,2,2024-03-18 08:02:00,1864,San Diego
+888,101,Tablet,Electronics,227.48,9,2024-03-18 17:40:00,1061,Chicago
+889,102,Smartphone,Electronics,701.78,8,2024-03-19 15:14:00,1647,Houston
+890,101,Laptop,Electronics,1880.69,6,2024-03-20 12:11:00,1143,Houston
+891,108,Headphones,Electronics,245.03,9,2024-03-20 23:20:00,1777,San Antonio
+892,104,Smartphone,Appliances,850.42,5,2024-03-21 01:06:00,1478,Houston
+893,102,Laptop,Accessories,991.91,1,2024-03-21 12:12:00,1733,Houston
+894,107,Printer,Appliances,207.53,8,2024-03-22 05:34:00,1855,New York
+895,108,Headphones,Appliances,108.3,3,2024-03-22 09:54:00,1686,Phoenix
+896,109,Mouse,Appliances,22.64,9,2024-03-22 15:07:00,1602,Houston
+897,105,Camera,Electronics,995.45,1,2024-03-23 01:38:00,1519,Houston
+898,103,Printer,Electronics,209.44,3,2024-03-23 20:24:00,1551,Philadelphia
+899,101,Headphones,Accessories,190.17,1,2024-03-24 05:21:00,1073,New York
+900,108,Printer,Accessories,231.55,1,2024-03-25 01:25:00,1830,Los Angeles
+901,106,Mouse,Accessories,21.46,6,2024-03-25 12:39:00,1420,San Diego
+902,105,Laptop,Appliances,914.48,4,2024-03-26 12:23:00,1047,Philadelphia
+903,107,Headphones,Accessories,272.96,4,2024-03-26 18:13:00,1511,Philadelphia
+904,105,Keyboard,Appliances,20.91,5,2024-03-26 21:48:00,1303,San Antonio
+905,104,Smartphone,Electronics,301.16,3,2024-03-27 21:15:00,1858,San Antonio
+906,105,Camera,Appliances,1292.16,2,2024-03-28 16:23:00,1192,San Diego
+907,107,Monitor,Electronics,498.72,8,2024-03-29 14:19:00,1715,New York
+908,106,Tablet,Electronics,563.55,7,2024-03-29 19:47:00,1035,San Diego
+909,109,Laptop,Accessories,818.33,4,2024-03-30 09:54:00,1830,New York
+910,102,Keyboard,Electronics,38.14,2,2024-03-30 11:32:00,1090,San Antonio
+911,107,Tablet,Accessories,685.91,9,2024-03-30 22:31:00,1327,New York
+912,101,Monitor,Accessories,423.44,8,2024-03-31 03:31:00,1230,Philadelphia
+913,108,Headphones,Accessories,191.7,4,2024-03-31 04:01:00,1881,Philadelphia
+914,104,Printer,Appliances,171.06,5,2024-03-31 22:19:00,1913,San Antonio
+915,108,Keyboard,Accessories,21.15,6,2024-04-01 01:11:00,1133,Houston
+916,108,Camera,Accessories,325.03,4,2024-04-01 18:09:00,1423,New York
+917,104,Mouse,Electronics,34.48,2,2024-04-02 09:32:00,1458,San Diego
+918,104,Smartphone,Appliances,315.28,5,2024-04-02 10:56:00,1680,New York
+919,105,Printer,Accessories,398.09,1,2024-04-03 03:21:00,1872,San Antonio
+920,107,Laptop,Accessories,1020.06,7,2024-04-04 01:15:00,1860,Philadelphia
+921,106,Tablet,Accessories,555.35,9,2024-04-04 11:54:00,1565,Philadelphia
+922,101,Laptop,Electronics,986.07,3,2024-04-04 13:19:00,1859,New York
+923,106,Laptop,Electronics,1448.11,6,2024-04-05 10:37:00,1760,Houston
+924,103,Keyboard,Electronics,26.45,9,2024-04-05 21:41:00,1456,Chicago
+925,109,Mouse,Accessories,40.67,4,2024-04-06 06:20:00,1258,Chicago
+926,103,Tablet,Accessories,492.46,6,2024-04-07 04:31:00,1095,San Diego
+927,109,Tablet,Accessories,243.08,3,2024-04-07 07:35:00,1440,Los Angeles
+928,105,Tablet,Accessories,624.29,9,2024-04-07 23:48:00,1029,Houston
+929,108,Laptop,Accessories,1456.42,7,2024-04-08 22:06:00,1158,Philadelphia
+930,109,Keyboard,Electronics,93.73,7,2024-04-09 03:47:00,1994,New York
+931,109,Laptop,Accessories,1899.95,4,2024-04-09 07:34:00,1277,San Antonio
+932,107,Tablet,Appliances,660.25,6,2024-04-09 21:31:00,1330,New York
+933,101,Mouse,Accessories,13.11,8,2024-04-10 01:55:00,1823,San Diego
+934,108,Mouse,Electronics,14.84,6,2024-04-10 09:25:00,1493,San Diego
+935,107,Tablet,Accessories,693.85,6,2024-04-11 06:40:00,1273,New York
+936,104,Headphones,Appliances,171.9,4,2024-04-12 06:32:00,1042,San Diego
+937,106,Camera,Accessories,585.86,8,2024-04-12 09:22:00,1176,San Diego
+938,102,Tablet,Appliances,584.83,8,2024-04-12 18:48:00,1808,San Diego
+939,104,Keyboard,Appliances,41.14,9,2024-04-12 21:00:00,1046,Chicago
+940,108,Keyboard,Electronics,78.18,6,2024-04-13 10:47:00,1285,San Antonio
+941,104,Keyboard,Appliances,86.98,2,2024-04-13 20:53:00,1468,Philadelphia
+942,104,Tablet,Accessories,592.13,4,2024-04-14 14:43:00,1192,San Antonio
+943,104,Keyboard,Appliances,41.92,4,2024-04-14 20:33:00,1017,New York
+944,109,Keyboard,Accessories,52.13,8,2024-04-14 22:12:00,1235,New York
+945,102,Monitor,Accessories,265.3,5,2024-04-15 15:53:00,1219,Chicago
+946,107,Monitor,Accessories,296.51,4,2024-04-16 08:42:00,1705,New York
+947,103,Smartphone,Accessories,417.16,8,2024-04-16 09:57:00,1567,San Diego
+948,104,Headphones,Electronics,163.12,3,2024-04-16 10:55:00,1751,San Antonio
+949,101,Printer,Accessories,253.23,2,2024-04-17 04:18:00,1528,Los Angeles
+950,103,Laptop,Electronics,1438.05,4,2024-04-17 11:00:00,1789,Philadelphia
+951,102,Keyboard,Appliances,85.59,1,2024-04-17 14:08:00,1311,San Antonio
+952,107,Smartphone,Accessories,662.13,1,2024-04-17 16:27:00,1470,Phoenix
+953,106,Mouse,Appliances,19.23,5,2024-04-17 18:50:00,1291,San Antonio
+954,101,Printer,Electronics,298.94,1,2024-04-17 20:38:00,1350,San Antonio
+955,108,Smartphone,Accessories,858.12,4,2024-04-18 00:19:00,1689,Los Angeles
+956,109,Mouse,Accessories,22.77,8,2024-04-18 02:44:00,1167,San Diego
+957,101,Tablet,Electronics,522.65,8,2024-04-18 17:02:00,1172,Houston
+958,105,Headphones,Appliances,86.73,2,2024-04-19 01:32:00,1307,San Antonio
+959,107,Monitor,Electronics,236.77,3,2024-04-19 07:48:00,1933,Los Angeles
+960,102,Tablet,Appliances,654.61,3,2024-04-19 07:53:00,1057,Los Angeles
+961,106,Tablet,Appliances,655.65,1,2024-04-19 14:21:00,1568,San Antonio
+962,108,Smartphone,Appliances,702.73,3,2024-04-19 23:49:00,1321,San Antonio
+963,108,Headphones,Accessories,225.59,8,2024-04-20 16:13:00,1781,Chicago
+964,108,Camera,Electronics,1324.82,6,2024-04-21 01:33:00,1418,Houston
+965,106,Keyboard,Accessories,96.68,5,2024-04-21 21:20:00,1893,San Antonio
+966,106,Headphones,Electronics,172.47,9,2024-04-22 03:25:00,1577,Philadelphia
+967,103,Smartphone,Appliances,693.1,7,2024-04-22 10:22:00,1847,San Antonio
+968,102,Mouse,Accessories,26.63,6,2024-04-22 10:43:00,1485,Philadelphia
+969,105,Printer,Accessories,121.59,5,2024-04-22 20:57:00,1846,Los Angeles
+970,109,Mouse,Accessories,26.91,5,2024-04-23 05:34:00,1993,Phoenix
+971,104,Tablet,Appliances,595.31,9,2024-04-24 01:55:00,1185,Los Angeles
+972,105,Headphones,Electronics,251.22,6,2024-04-24 12:56:00,1868,New York
+973,106,Camera,Appliances,1370.85,4,2024-04-25 11:45:00,1370,Chicago
+974,106,Camera,Accessories,361.76,4,2024-04-25 17:15:00,1781,New York
+975,104,Camera,Accessories,932.59,4,2024-04-25 23:33:00,1043,San Diego
+976,104,Headphones,Appliances,76.86,6,2024-04-26 20:08:00,1158,Houston
+977,108,Laptop,Accessories,1040.89,1,2024-04-26 22:48:00,1702,Houston
+978,105,Camera,Accessories,1380.26,9,2024-04-27 09:46:00,1474,Chicago
+979,105,Smartphone,Electronics,647.75,2,2024-04-27 15:40:00,1526,Los Angeles
+980,109,Monitor,Electronics,403.42,2,2024-04-28 12:44:00,1008,Houston
+981,104,Laptop,Electronics,877.26,5,2024-04-28 14:03:00,1862,Phoenix
+982,107,Mouse,Electronics,26.67,4,2024-04-28 16:35:00,1502,San Antonio
+983,105,Laptop,Electronics,1609.09,3,2024-04-29 01:12:00,1571,Chicago
+984,109,Keyboard,Electronics,30.67,5,2024-04-29 07:35:00,1503,New York
+985,108,Headphones,Accessories,131.45,7,2024-04-29 19:08:00,1596,Phoenix
+986,108,Laptop,Accessories,877.46,2,2024-04-30 01:00:00,1245,San Antonio
+987,103,Headphones,Electronics,212.83,6,2024-04-30 21:25:00,1588,San Antonio
+988,109,Monitor,Appliances,488.36,4,2024-05-01 13:16:00,1624,Philadelphia
+989,108,Tablet,Electronics,613.52,2,2024-05-01 15:29:00,1429,Chicago
+990,103,Camera,Accessories,1469.55,1,2024-05-02 02:03:00,1373,Phoenix
+991,101,Mouse,Appliances,43.82,8,2024-05-02 04:52:00,1269,San Antonio
+992,105,Printer,Appliances,356.56,5,2024-05-02 19:18:00,1514,Chicago
+993,104,Headphones,Appliances,194.29,2,2024-05-03 01:49:00,1587,New York
+994,108,Keyboard,Accessories,61.46,8,2024-05-04 01:18:00,1146,Los Angeles
+995,106,Smartphone,Appliances,584.38,3,2024-05-04 14:58:00,1842,Chicago
+996,105,Tablet,Accessories,609.05,7,2024-05-04 16:36:00,1646,Houston
+997,109,Tablet,Accessories,291.03,2,2024-05-05 15:57:00,1172,San Diego
+998,106,Monitor,Electronics,122.49,7,2024-05-06 08:29:00,1952,New York
+999,103,Printer,Accessories,384.37,4,2024-05-06 21:29:00,1650,New York
+1000,106,Mouse,Appliances,10.15,1,2024-05-07 03:09:00,1868,Phoenix
